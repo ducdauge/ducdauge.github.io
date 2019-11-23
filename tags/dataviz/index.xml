@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>dataviz on Edoardo M. Ponti</title>
-    <link>https://emponti.github.io/tags/dataviz/</link>
+    <link>https://ducdauge.github.io/tags/dataviz/</link>
     <description>Recent content in dataviz on Edoardo M. Ponti</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-uk</language>
     <copyright>Edoardo M. Ponti, {year}</copyright>
     <lastBuildDate>Fri, 24 Jun 2016 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://emponti.github.io/tags/dataviz/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://ducdauge.github.io/tags/dataviz/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Code Your Graph Workshop</title>
-      <link>https://emponti.github.io/project/code-your-graph/</link>
+      <link>https://ducdauge.github.io/project/code-your-graph/</link>
       <pubDate>Fri, 24 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://emponti.github.io/project/code-your-graph/</guid>
+      <guid>https://ducdauge.github.io/project/code-your-graph/</guid>
       <description>
 
 
@@ -32,10 +32,10 @@
     
     <item>
       <title>Code Your Graph Workshop</title>
-      <link>https://emponti.github.io/talk/2016-ohsu-dataviz/</link>
+      <link>https://ducdauge.github.io/talk/2016-ohsu-dataviz/</link>
       <pubDate>Fri, 24 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://emponti.github.io/talk/2016-ohsu-dataviz/</guid>
+      <guid>https://ducdauge.github.io/talk/2016-ohsu-dataviz/</guid>
       <description>
 
 

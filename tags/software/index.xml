@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>software on Edoardo M. Ponti</title>
-    <link>https://emponti.github.io/tags/software/</link>
+    <link>https://ducdauge.github.io/tags/software/</link>
     <description>Recent content in software on Edoardo M. Ponti</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-uk</language>
     <copyright>Edoardo M. Ponti, {year}</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://emponti.github.io/tags/software/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://ducdauge.github.io/tags/software/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bakeoff</title>
-      <link>https://emponti.github.io/project/bakeoff/</link>
+      <link>https://ducdauge.github.io/project/bakeoff/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://emponti.github.io/project/bakeoff/</guid>
+      <guid>https://ducdauge.github.io/project/bakeoff/</guid>
       <description></description>
     </item>
     

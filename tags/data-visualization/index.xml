@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>data visualization on Edoardo M. Ponti</title>
-    <link>https://emponti.github.io/tags/data-visualization/</link>
+    <link>https://ducdauge.github.io/tags/data-visualization/</link>
     <description>Recent content in data visualization on Edoardo M. Ponti</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-uk</language>
     <copyright>Edoardo M. Ponti, {year}</copyright>
     <lastBuildDate>Mon, 29 Oct 2018 16:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://emponti.github.io/tags/data-visualization/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://ducdauge.github.io/tags/data-visualization/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Data Visualization in the Tidyverse</title>
-      <link>https://emponti.github.io/talk/2018-uo-plotoff/</link>
+      <link>https://ducdauge.github.io/talk/2018-uo-plotoff/</link>
       <pubDate>Mon, 29 Oct 2018 16:00:00 +0000</pubDate>
       
-      <guid>https://emponti.github.io/talk/2018-uo-plotoff/</guid>
+      <guid>https://ducdauge.github.io/talk/2018-uo-plotoff/</guid>
       <description>&lt;p&gt;Using one dataset from The Great British Bake Off, I show eleven ways to visualize one dataset using eleven different versions of &amp;ldquo;tidy data.&amp;rdquo; Take-away messages:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -30,10 +30,10 @@
     
     <item>
       <title>Take a Sad Plot &amp; Make It Better</title>
-      <link>https://emponti.github.io/talk/2018-ohsu-sad-plot-better/</link>
+      <link>https://ducdauge.github.io/talk/2018-ohsu-sad-plot-better/</link>
       <pubDate>Fri, 06 Apr 2018 16:00:00 +0000</pubDate>
       
-      <guid>https://emponti.github.io/talk/2018-ohsu-sad-plot-better/</guid>
+      <guid>https://ducdauge.github.io/talk/2018-ohsu-sad-plot-better/</guid>
       <description>&lt;p&gt;Join us on April 6 for a walk-through of how to take a sad plot and make it better by Alison Hill, who co-teaches the CS631 Data Visualization course. Alison will take us through one plot’s life cycle, from a sad Powerpoint slide to an Excel chart and finally to the finished product made with the ggplot2 package in R. We will discuss why each version of the plot fails in different ways, how each iteration improved on the last one, and which data visualization principles are at work in the final plot to communicate a clear scientific story.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://apreshill.github.io/ohsu-biodatavis/slides_files/figure-html/animated.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
