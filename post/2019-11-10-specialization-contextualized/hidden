@@ -1,0 +1,27 @@
+---
+aliases: [specialization-contextualized]
+title: Specialization of Contextualized Word Embeddings
+authors: [emponti]
+date: '2019-11-10'
+tags: [specialization]
+categories:
+summary: A survey on the latest methods to combine text-based distributed representations and structured knowledge from graphs.
+image:
+  caption: ''
+  focal_point: ''
+output:
+  blogdown::html_page:
+    toc: true
+    number_sections: true
+    toc_depth: 1
+---
+
+# Semantic Specialization
+
+# Masking Strategies
+
+# Auxiliary Objectives
+
+# Graph Reshaping
+
+# Takeaway messages
