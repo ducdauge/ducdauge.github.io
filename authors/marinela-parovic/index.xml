@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ryan Cotterell on Edoardo M. Ponti</title>
-    <link>https://ducdauge.github.io/authors/ryan-cotterell/</link>
-    <description>Recent content in Ryan Cotterell on Edoardo M. Ponti</description>
+    <title>Marinela Parovic on Edoardo M. Ponti</title>
+    <link>https://ducdauge.github.io/authors/marinela-parovic/</link>
+    <description>Recent content in Marinela Parovic on Edoardo M. Ponti</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-uk</language>
     <copyright>Edoardo M. Ponti, {year}</copyright>
     <lastBuildDate>Thu, 30 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://ducdauge.github.io/authors/ryan-cotterell/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://ducdauge.github.io/authors/marinela-parovic/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ducdauge.github.io/publication/2020-parameter-space/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Towards Zero-shot Language Modeling</title>
-      <link>https://ducdauge.github.io/publication/2019-towards-zero/</link>
-      <pubDate>Sun, 03 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://ducdauge.github.io/publication/2019-towards-zero/</guid>
       <description></description>
     </item>
     
