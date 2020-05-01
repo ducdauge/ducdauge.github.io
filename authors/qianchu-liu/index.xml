@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Olga Majewska on Edoardo M. Ponti</title>
-    <link>https://ducdauge.github.io/authors/olga-majewska/</link>
-    <description>Recent content in Olga Majewska on Edoardo M. Ponti</description>
+    <title>Qianchu Liu on Edoardo M. Ponti</title>
+    <link>https://ducdauge.github.io/authors/qianchu-liu/</link>
+    <description>Recent content in Qianchu Liu on Edoardo M. Ponti</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-uk</language>
     <copyright>Edoardo M. Ponti, {year}</copyright>
     <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://ducdauge.github.io/authors/olga-majewska/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://ducdauge.github.io/authors/qianchu-liu/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ducdauge.github.io/publication/2020-xcopa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-SimLex: A Large-Scale Evaluation of Multilingual and Cross-Lingual Lexical Semantic Similarity</title>
-      <link>https://ducdauge.github.io/publication/2020-multi-simlex/</link>
-      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ducdauge.github.io/publication/2020-multi-simlex/</guid>
       <description></description>
     </item>
     
