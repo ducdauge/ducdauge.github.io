@@ -7,10 +7,28 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-uk</language>
     <copyright>Edoardo M. Ponti, {year}</copyright>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2019 09:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://ducdauge.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Semantic Specialization of Contextualised Embeddings (EMNLP 2019 Tutorial)</title>
+      <link>https://ducdauge.github.io/talk/2019-semantic-specialization-tutorial/</link>
+      <pubDate>Mon, 04 Nov 2019 09:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/talk/2019-semantic-specialization-tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multilingual Language Modelling (RASA AI Meetup)</title>
+      <link>https://ducdauge.github.io/talk/2019-multilingual-language-modeling/</link>
+      <pubDate>Thu, 11 Apr 2019 17:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/talk/2019-multilingual-language-modeling/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Talks &amp; Workshops</title>
@@ -18,6 +36,15 @@
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://ducdauge.github.io/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intelligenza Artificiale e Linguaggio (Italian)</title>
+      <link>https://ducdauge.github.io/talk/2019-prospettive-ia/</link>
+      <pubDate>Thu, 29 Nov 2018 21:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/talk/2019-prospettive-ia/</guid>
       <description></description>
     </item>
     
