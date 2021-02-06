@@ -3,22 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ducdauge.github.io/datasets/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ducdauge.github.io/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ducdauge.github.io/authors/emponti/</loc>
+    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ducdauge.github.io/authors/</loc>
+    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ducdauge.github.io/post/2020-prior-initialization/</loc>
+    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ducdauge.github.io/post/</loc>
+    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ducdauge.github.io/tags/</loc>
+    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ducdauge.github.io/tags/theory/</loc>
+    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ducdauge.github.io/publication_types/3/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ducdauge.github.io/authors/anna-korhonen/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ducdauge.github.io/authors/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ducdauge.github.io/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -113,6 +143,11 @@
   </url>
   
   <url>
+    <loc>https://ducdauge.github.io/publication_types/2/</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ducdauge.github.io/authors/marinela-parovic/</loc>
     <lastmod>2020-01-30T00:00:00+00:00</lastmod>
   </url>
@@ -125,11 +160,6 @@
   <url>
     <loc>https://ducdauge.github.io/authors/ryan-cotterell/</loc>
     <lastmod>2020-01-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ducdauge.github.io/authors/emponti/</loc>
-    <lastmod>2019-11-04T09:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -149,11 +179,6 @@
   
   <url>
     <loc>https://ducdauge.github.io/talk/2019-semantic-specialization-tutorial/</loc>
-    <lastmod>2019-11-04T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ducdauge.github.io/tags/</loc>
     <lastmod>2019-11-04T09:00:00+00:00</lastmod>
   </url>
   
@@ -213,11 +238,6 @@
   </url>
   
   <url>
-    <loc>https://ducdauge.github.io/publication_types/2/</loc>
-    <lastmod>2019-02-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ducdauge.github.io/authors/ekaterina-shutova/</loc>
     <lastmod>2019-02-12T00:00:00+00:00</lastmod>
   </url>
@@ -238,7 +258,7 @@
   </url>
   
   <url>
-    <loc>https://ducdauge.github.io/projects/</loc>
+    <loc>https://ducdauge.github.io/about/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   

@@ -7,10 +7,30 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-uk</language>
     <copyright>Edoardo M. Ponti, {year}</copyright>
-    <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://ducdauge.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://ducdauge.github.io/authors/emponti/</link>
+      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/authors/emponti/</guid>
+      <description>&lt;p&gt;I am a postdoctoral fellow in computer science at &lt;a href=&#34;https://mila.quebec/en/&#34; target=&#34;_blank&#34;&gt;Mila - Quebec AI Institute&lt;/a&gt; and &lt;a href=&#34;https://www.mcgill.ca/&#34; target=&#34;_blank&#34;&gt;McGill University&lt;/a&gt; in Montréal, collaborating with &lt;a href=&#34;https://sivareddy.in/&#34; target=&#34;_blank&#34;&gt;Siva Reddy&lt;/a&gt;. In 2020, I obtained a Ph.D. in computational Linguistics at the &lt;a href=&#34;https://www.cam.ac.uk/&#34; target=&#34;_blank&#34;&gt;University of Cambridge&lt;/a&gt;, where I was supervised by &lt;a href=&#34;https://www.cl.cam.ac.uk/~alk23/&#34; target=&#34;_blank&#34;&gt;Anna Korhonen&lt;/a&gt; and &lt;a href=&#34;https://sites.google.com/site/ivanvulic/&#34; target=&#34;_blank&#34;&gt;Ivan Vulić&lt;/a&gt;, and resided at &lt;a href=&#34;https://www.joh.cam.ac.uk/&#34; target=&#34;_blank&#34;&gt;St John&amp;rsquo;s College&lt;/a&gt;. I am also a frequent collaborator of &lt;a href=&#34;https://rycolab.github.io/&#34; target=&#34;_blank&#34;&gt;Ryan Cotterell&amp;rsquo;s lab&lt;/a&gt; at ETH Zürich. Previously, I interned as AI/ML researcher at &lt;a href=&#34;https://www.apple.com/&#34; target=&#34;_blank&#34;&gt;Apple&lt;/a&gt; in Cupertino.&lt;/p&gt;
+
+&lt;p&gt;My ultimate goal is reconciling how machines learn and use natural language with its human counterpart. This is a source of inspiration to address some of the open challenges in developing technology for hundreds of the world&amp;rsquo;s languages, which originate from their scarcity of annotated data and their typological variation:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;sample efficiency&lt;/strong&gt;, learning from just a few examples;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;modularity&lt;/strong&gt;, disentangling different facets of knowledge and recombining them in original ways in order to better generalise to novel domains;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;robustness&lt;/strong&gt; in transferring knowledge between differently distributed domains;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;My research earned a &lt;a href=&#34;https://ai.google/research/outreach/faculty-research-awards/&#34; target=&#34;_blank&#34;&gt;Google Research Faculty Award&lt;/a&gt; and an &lt;a href=&#34;https://www.mmll.cam.ac.uk/news/prof-anna-korhonens-project-enabling-multilingual-conversational-ai-awarded-erc-proof-concept&#34; target=&#34;_blank&#34;&gt;ERC Proof of Concept grant&lt;/a&gt; for projects co-written with my supervisors, a Fulbright scolarship, won a Best Paper Award at &lt;a href=&#34;https://www.aclweb.org/anthology/W19-4310.pdf&#34; target=&#34;_blank&#34;&gt;RepL4NLP 2019&lt;/a&gt;, and led to several &lt;a href=&#34;talks&#34; target=&#34;_blank&#34;&gt;invited talks&lt;/a&gt;. Finally, I am a board member &lt;a href=&#34;https://sigtyp.github.io/&#34; target=&#34;_blank&#34;&gt;SIGTYP&lt;/a&gt;, an ACL special interest group for computational typology, and co-organiser of its yearly workshops and shared tasks.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Anna Korhonen</title>
@@ -163,20 +183,6 @@
       
       <guid>https://ducdauge.github.io/authors/ryan-cotterell/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://ducdauge.github.io/authors/emponti/</link>
-      <pubDate>Mon, 04 Nov 2019 09:00:00 +0000</pubDate>
-      
-      <guid>https://ducdauge.github.io/authors/emponti/</guid>
-      <description>&lt;p&gt;I am a postdoctoral fellow at &lt;a href=&#34;https://mila.quebec/en/&#34; target=&#34;_blank&#34;&gt;Mila - Quebec AI Institute&lt;/a&gt; / &lt;a href=&#34;https://www.mcgill.ca/&#34; target=&#34;_blank&#34;&gt;McGill University&lt;/a&gt; collaborating with &lt;a href=&#34;https://sivareddy.in/&#34; target=&#34;_blank&#34;&gt;Siva Reddy&lt;/a&gt;. I am expected to complete my Ph.D. in Computational Linguistics at the &lt;a href=&#34;https://www.cam.ac.uk/&#34; target=&#34;_blank&#34;&gt;University of Cambridge&lt;/a&gt;, where I was supervised by &lt;a href=&#34;https://www.cl.cam.ac.uk/~alk23/&#34; target=&#34;_blank&#34;&gt;Anna Korhonen&lt;/a&gt; and &lt;a href=&#34;https://sites.google.com/site/ivanvulic/&#34; target=&#34;_blank&#34;&gt;Ivan Vulić&lt;/a&gt;, in September 2020. I am also a frequent collaborator of Ryan Cotterell&amp;rsquo;s lab &lt;a href=&#34;https://rycolab.github.io/&#34; target=&#34;_blank&#34;&gt;Rycolab&lt;/a&gt; at ETH Zürich.&lt;/p&gt;
-
-&lt;p&gt;Most of my research revolves around sample efficiency in Bayesian neural networks, with applications to resource-poor languages. How to endow models with the correct inductive bias to perform few-shot learning? How to exploit the modularity of knowledge to generalise to new domains where only few variables change? Moreover, I believe that text-based, distributional information reflects but a single facet of language. To address this, I helped create multilingual evaluation benchmarks for pure semantic knowledge, such as &lt;a href=&#34;https://multisimlex.com/&#34; target=&#34;_blank&#34;&gt;MultiSimLex&lt;/a&gt;, and for causal reasoning, such as &lt;a href=&#34;https://github.com/cambridgeltl/xcopa&#34; target=&#34;_blank&#34;&gt;XCOPA&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;In Cambrige, I was affiliated to &lt;a href=&#34;https://www.joh.cam.ac.uk/&#34; target=&#34;_blank&#34;&gt;St John&amp;rsquo;s College&lt;/a&gt;. I have previously interned as an AI/ML researcher at &lt;a href=&#34;https://www.apple.com/&#34; target=&#34;_blank&#34;&gt;Apple&lt;/a&gt; in Cupertino. I won a &lt;a href=&#34;https://ai.google/research/outreach/faculty-research-awards/&#34; target=&#34;_blank&#34;&gt;Google Research Faculty Award&lt;/a&gt; and an &lt;a href=&#34;https://www.mmll.cam.ac.uk/news/prof-anna-korhonens-project-enabling-multilingual-conversational-ai-awarded-erc-proof-concept&#34; target=&#34;_blank&#34;&gt;ERC Proof of Concept grant&lt;/a&gt; for projects co-written with my supervisor. I hold a bachelor&amp;rsquo;s degree in modern literature (with a thesis on the partitive case in Finnish) from the &lt;a href=&#34;http://wcm-3.unipv.it/site/en/home.html&#34; target=&#34;_blank&#34;&gt;University of Pavia&lt;/a&gt;. During that time, I was also part of the &lt;a href=&#34;http://www.iusspavia.it/home&#34; target=&#34;_blank&#34;&gt;Institute for Advanced Study (I.U.S.S)&lt;/a&gt; and &lt;a href=&#34;https://www.ghislieri.it/&#34; target=&#34;_blank&#34;&gt;Collegio Ghislieri&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
     <item>
