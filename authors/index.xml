@@ -23,7 +23,7 @@
 &lt;p&gt;My ultimate goal is reconciling how machines learn and use natural language with its human counterpart. This is a source of inspiration to address some of the open challenges in developing technology for hundreds of the world&amp;rsquo;s languages, which originate from their scarcity of annotated data and their typological variation:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;sample efficiency&lt;/strong&gt;, learning from just a few examples;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;sample efficiency&lt;/strong&gt;, learning from just a few examples by virtue of inductive biases;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;modularity&lt;/strong&gt;, disentangling different facets of knowledge and recombining them in original ways in order to better generalise to novel domains;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;robustness&lt;/strong&gt; in transferring knowledge between differently distributed domains;&lt;/li&gt;
 &lt;/ul&gt;
