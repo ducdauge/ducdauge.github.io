@@ -7,10 +7,64 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-uk</language>
     <copyright>Edoardo M. Ponti, {year}</copyright>
-    <lastBuildDate>Wed, 16 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://ducdauge.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Desmond Elliott</title>
+      <link>https://ducdauge.github.io/authors/desmond-elliott/</link>
+      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/authors/desmond-elliott/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edoardo M. Ponti</title>
+      <link>https://ducdauge.github.io/authors/edoardo-m.-ponti/</link>
+      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/authors/edoardo-m.-ponti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emanuele Bugliarello</title>
+      <link>https://ducdauge.github.io/authors/emanuele-bugliarello/</link>
+      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/authors/emanuele-bugliarello/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fangyu Liu</title>
+      <link>https://ducdauge.github.io/authors/fangyu-liu/</link>
+      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/authors/fangyu-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nigel Collier</title>
+      <link>https://ducdauge.github.io/authors/nigel-collier/</link>
+      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/authors/nigel-collier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Siva Reddy</title>
+      <link>https://ducdauge.github.io/authors/siva-reddy/</link>
+      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/authors/siva-reddy/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
@@ -18,7 +72,7 @@
       <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ducdauge.github.io/authors/emponti/</guid>
-      <description>&lt;p&gt;I will take the position of Lecturer (≈ Assistant Professor) in Natural Language Processing at the &lt;a href=&#34;https://edinburghnlp.inf.ed.ac.uk/&#34; target=&#34;_blank&#34;&gt;University of Edinburgh&lt;/a&gt; from August 2022. &lt;strong&gt;I am currently recruiting PhD students!&lt;/strong&gt; Apply for a &lt;em&gt;fully funded&lt;/em&gt; 4-year PhD with integrated study at the &lt;a href=&#34;https://edin.ac/cdt-in-nlp&#34; target=&#34;_blank&#34;&gt;NLP Centre for Doctoral Training&lt;/a&gt; or for a &lt;em&gt;fully funded&lt;/em&gt; 3-year PhD at the &lt;a href=&#34;http://www.ed.ac.uk/informatics/postgraduate/research-degrees/phd&#34; target=&#34;_blank&#34;&gt;Istitute for Language, Cognition and Computation (ILCC)&lt;/a&gt;. The deadline is fast approaching!&lt;/p&gt;
+      <description>&lt;p&gt;I will take the position of Lecturer (≈ Assistant Professor) in Natural Language Processing at the &lt;a href=&#34;https://edinburghnlp.inf.ed.ac.uk/&#34; target=&#34;_blank&#34;&gt;University of Edinburgh&lt;/a&gt; from August 2022. &lt;strong&gt;I am currently recruiting PhD students!&lt;/strong&gt; If you share similar research interests (take a look at my &lt;a href=&#34;files/research.pdf&#34; target=&#34;_blank&#34;&gt;research statement&lt;/a&gt;), consider joining my group. You can apply for a &lt;em&gt;fully funded&lt;/em&gt; 4-year PhD with integrated study at the &lt;a href=&#34;https://edin.ac/cdt-in-nlp&#34; target=&#34;_blank&#34;&gt;NLP Centre for Doctoral Training&lt;/a&gt; or for a &lt;em&gt;fully funded&lt;/em&gt; 3-year PhD at the &lt;a href=&#34;http://www.ed.ac.uk/informatics/postgraduate/research-degrees/phd&#34; target=&#34;_blank&#34;&gt;Istitute for Language, Cognition and Computation (ILCC)&lt;/a&gt;. The deadline is fast approaching.&lt;/p&gt;
 
 &lt;p&gt;I am currently a postdoctoral fellow in computer science at &lt;a href=&#34;https://mila.quebec/en/&#34; target=&#34;_blank&#34;&gt;Mila - Quebec AI Institute&lt;/a&gt; in Montreal and an affiliated researcher at the University of Cambridge. In 2020, I obtained a PhD in computational linguistics from the &lt;a href=&#34;https://www.cam.ac.uk/&#34; target=&#34;_blank&#34;&gt;University of Cambridge&lt;/a&gt;, &lt;a href=&#34;https://www.joh.cam.ac.uk/&#34; target=&#34;_blank&#34;&gt;St John&amp;rsquo;s College&lt;/a&gt;. I am also a frequent collaborator of &lt;a href=&#34;https://rycolab.github.io/&#34; target=&#34;_blank&#34;&gt;Ryan Cotterell&amp;rsquo;s lab&lt;/a&gt; at ETH Zürich. Previously, I interned as AI/ML researcher at &lt;a href=&#34;https://www.apple.com/&#34; target=&#34;_blank&#34;&gt;Apple&lt;/a&gt; in Cupertino.&lt;/p&gt;
 
@@ -41,15 +95,6 @@
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ducdauge.github.io/authors/anna-korhonen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Edoardo M. Ponti</title>
-      <link>https://ducdauge.github.io/authors/edoardo-m.-ponti/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ducdauge.github.io/authors/edoardo-m.-ponti/</guid>
       <description></description>
     </item>
     
