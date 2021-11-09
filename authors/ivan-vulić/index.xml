@@ -7,10 +7,28 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-uk</language>
     <copyright>Edoardo M. Ponti, {year}</copyright>
-    <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://ducdauge.github.io/authors/ivan-vuli%C4%87/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Modelling Latent Translations for Cross-Lingual Transfer</title>
+      <link>https://ducdauge.github.io/publication/2021-latent-translation/</link>
+      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/publication/2021-latent-translation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Composable Sparse Fine-Tuning for Cross-Lingual Transfer</title>
+      <link>https://ducdauge.github.io/publication/2021-sparseft/</link>
+      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/publication/2021-sparseft/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>XCOPA: A Multilingual Dataset for Causal Commonsense Reasoning</title>

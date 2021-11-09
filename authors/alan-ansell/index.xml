@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alan Ansell on Edoardo M. Ponti</title>
+    <link>https://ducdauge.github.io/authors/alan-ansell/</link>
+    <description>Recent content in Alan Ansell on Edoardo M. Ponti</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-uk</language>
+    <copyright>Edoardo M. Ponti, {year}</copyright>
+    <lastBuildDate>Thu, 14 Oct 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://ducdauge.github.io/authors/alan-ansell/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Composable Sparse Fine-Tuning for Cross-Lingual Transfer</title>
+      <link>https://ducdauge.github.io/publication/2021-sparseft/</link>
+      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/publication/2021-sparseft/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
