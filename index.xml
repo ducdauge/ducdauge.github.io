@@ -87,12 +87,13 @@
     </item>
     
     <item>
-      <title>Twitters</title>
+      <title>Twitter feed</title>
       <link>https://ducdauge.github.io/twitter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ducdauge.github.io/twitter/</guid>
-      <description></description>
+      <description>
+&lt;a class=&#34;twitter-timeline&#34; href=&#34;https://twitter.com/PontiEdoardo?ref_src=twsrc%5Etfw&#34;&gt;Tweets by PontiEdoardo&lt;/a&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;</description>
     </item>
     
   </channel>
