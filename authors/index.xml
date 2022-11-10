@@ -7,10 +7,46 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-uk</language>
     <copyright>Edoardo M. Ponti, {year}</copyright>
-    <lastBuildDate>Tue, 09 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Feb 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://ducdauge.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Alessandro Sordoni</title>
+      <link>https://ducdauge.github.io/authors/alessandro-sordoni/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/authors/alessandro-sordoni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edoardo M. Ponti</title>
+      <link>https://ducdauge.github.io/authors/edoardo-m.-ponti/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/authors/edoardo-m.-ponti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Siva Reddy</title>
+      <link>https://ducdauge.github.io/authors/siva-reddy/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/authors/siva-reddy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yoshua Bengio</title>
+      <link>https://ducdauge.github.io/authors/yoshua-bengio/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/authors/yoshua-bengio/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Desmond Elliott</title>
@@ -18,15 +54,6 @@
       <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ducdauge.github.io/authors/desmond-elliott/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Edoardo M. Ponti</title>
-      <link>https://ducdauge.github.io/authors/edoardo-m.-ponti/</link>
-      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://ducdauge.github.io/authors/edoardo-m.-ponti/</guid>
       <description></description>
     </item>
     
@@ -76,15 +103,6 @@
     </item>
     
     <item>
-      <title>Siva Reddy</title>
-      <link>https://ducdauge.github.io/authors/siva-reddy/</link>
-      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://ducdauge.github.io/authors/siva-reddy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Alan Ansell</title>
       <link>https://ducdauge.github.io/authors/alan-ansell/</link>
       <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
@@ -100,24 +118,6 @@
       
       <guid>https://ducdauge.github.io/authors/anna-korhonen/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://ducdauge.github.io/authors/emponti/</link>
-      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ducdauge.github.io/authors/emponti/</guid>
-      <description>&lt;p&gt;I am a Lecturer (≈ Assistant Professor) in Natural Language Processing at the &lt;a href=&#34;https://edinburghnlp.inf.ed.ac.uk/&#34;&gt;University of Edinburgh&lt;/a&gt; and an Affiliated Lecturer at the &lt;a href=&#34;https://ltl.mmll.cam.ac.uk/&#34;&gt;University of Cambridge&lt;/a&gt;. &lt;strong&gt;I am currently recruiting PhD students and postdocs!&lt;/strong&gt;  Please take a look at my &lt;a href=&#34;files/research.pdf&#34;&gt;research statement&lt;/a&gt; if you are considering joining my group. You can apply for a &lt;em&gt;fully funded&lt;/em&gt; 4-year PhD with integrated study at the &lt;a href=&#34;https://edin.ac/cdt-in-nlp&#34;&gt;NLP Centre for Doctoral Training&lt;/a&gt; or for a &lt;em&gt;fully funded&lt;/em&gt; 3-year PhD at the &lt;a href=&#34;http://www.ed.ac.uk/informatics/postgraduate/research-degrees/phd&#34;&gt;Institute for Language, Cognition and Computation (ILCC)&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Previously, I was a visiting postdoctoral scholar at &lt;a href=&#34;https://www.stanford.edu/&#34;&gt;Stanford University&lt;/a&gt; and a postdoctoral fellow in computer science at &lt;a href=&#34;https://mila.quebec/en/&#34;&gt;Mila - Quebec AI Institute&lt;/a&gt; in Montreal. In 2020, I obtained a PhD in computational linguistics from the &lt;a href=&#34;https://www.cam.ac.uk/&#34;&gt;University of Cambridge&lt;/a&gt;, &lt;a href=&#34;https://www.joh.cam.ac.uk/&#34;&gt;St John&amp;rsquo;s College&lt;/a&gt;. I interned as AI/ML researcher at &lt;a href=&#34;https://www.apple.com/&#34;&gt;Apple&lt;/a&gt; in Cupertino.&lt;/p&gt;
-&lt;p&gt;My ultimate goal is to reconcile how machines learn and use natural language with the way humans do, by designing neural networks that take inspiration from cognitive principles. This is a source of inspiration to address some of the open challenges in developing technology for the variety of languages around the world:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;sample efficiency&lt;/strong&gt;, learning from just a few examples by virtue of inductive biases;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;modularity&lt;/strong&gt;, disentangling different facets of knowledge and recombining them in original ways in order to better generalise to novel tasks;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;grounding&lt;/strong&gt; language learning and use in perception and action;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;My research earned a &lt;a href=&#34;https://ai.google/research/outreach/faculty-research-awards/&#34;&gt;Google Research Faculty Award&lt;/a&gt; and an &lt;a href=&#34;https://www.mmll.cam.ac.uk/news/prof-anna-korhonens-project-enabling-multilingual-conversational-ai-awarded-erc-proof-concept&#34;&gt;ERC Proof of Concept grant&lt;/a&gt; on multilingual conversational AI. I received 2 Best Paper Awards at &lt;a href=&#34;https://2021.emnlp.org/blog/2021-10-29-best-paper-awards/&#34;&gt;EMNLP 2021&lt;/a&gt; and &lt;a href=&#34;https://www.aclweb.org/anthology/W19-4310.pdf&#34;&gt;RepL4NLP 2019&lt;/a&gt;. I had the oppotunity to discuss my research in many &lt;a href=&#34;talks&#34;&gt;invited talks&lt;/a&gt;. Finally, I am a board member of &lt;a href=&#34;https://sigtyp.github.io/&#34;&gt;SIGTYP&lt;/a&gt;, the ACL special interest group for computational typology, and a member of the European Lab for Learning and Intelligent Systems (&lt;a href=&#34;https://ellis.eu/members&#34;&gt;ELLIS&lt;/a&gt;).&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -316,6 +316,32 @@
       
       <guid>https://ducdauge.github.io/authors/nikola-mrk%C5%A1i%C4%87/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ducdauge.github.io/authors/emponti/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/authors/emponti/</guid>
+      <description>&lt;p&gt;I am a Lecturer (≈ Assistant Professor) in Natural Language Processing at the &lt;a href=&#34;https://edinburghnlp.inf.ed.ac.uk/&#34;&gt;University of Edinburgh&lt;/a&gt;, where I am part of the Institute for Language, Cognition, and Computation (&lt;a href=&#34;https://web.inf.ed.ac.uk/ilcc&#34;&gt;ILCC&lt;/a&gt;), and an Affiliated Lecturer at the &lt;a href=&#34;https://ltl.mmll.cam.ac.uk/&#34;&gt;University of Cambridge&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I am currently recruiting PhD students and postdocs!&lt;/strong&gt; For more information, visit the &lt;a href=&#34;faq&#34;&gt;FAQ&lt;/a&gt; page.&lt;/p&gt;
+&lt;p&gt;Previously, I was a visiting postdoctoral scholar at &lt;a href=&#34;https://www.stanford.edu/&#34;&gt;Stanford University&lt;/a&gt; and a postdoctoral fellow in computer science at &lt;a href=&#34;https://mila.quebec/en/&#34;&gt;Mila - Quebec AI Institute&lt;/a&gt; in Montreal. In 2020, I obtained a PhD in computational linguistics from the &lt;a href=&#34;https://www.cam.ac.uk/&#34;&gt;University of Cambridge&lt;/a&gt;, &lt;a href=&#34;https://www.joh.cam.ac.uk/&#34;&gt;St John&amp;rsquo;s College&lt;/a&gt;. I interned as AI/ML researcher at &lt;a href=&#34;https://www.apple.com/&#34;&gt;Apple&lt;/a&gt; in Cupertino.&lt;/p&gt;
+&lt;p&gt;The main research foci of my lab are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;sample efficiency&lt;/strong&gt;, learning from just a few examples by virtue of inductive biases and knowledge transfer;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;modular deep learning&lt;/strong&gt;, designing neural architectures that can disentangle and recombine knowledge through adapters in order to better generalise to new tasks;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;grounding&lt;/strong&gt; language learning and use in perception and action;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;computational typology&lt;/strong&gt;, using computational tools to model the variation of the world&amp;rsquo;s languages.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;My research earned a &lt;a href=&#34;https://ai.google/research/outreach/faculty-research-awards/&#34;&gt;Google Research Faculty Award&lt;/a&gt; and an &lt;a href=&#34;https://www.mmll.cam.ac.uk/news/prof-anna-korhonens-project-enabling-multilingual-conversational-ai-awarded-erc-proof-concept&#34;&gt;ERC Proof of Concept grant&lt;/a&gt; on multilingual conversational AI. I received 2 Best Paper Awards at &lt;a href=&#34;https://2021.emnlp.org/blog/2021-10-29-best-paper-awards/&#34;&gt;EMNLP 2021&lt;/a&gt; and &lt;a href=&#34;https://www.aclweb.org/anthology/W19-4310.pdf&#34;&gt;RepL4NLP 2019&lt;/a&gt;. I am a board member of &lt;a href=&#34;https://sigtyp.github.io/&#34;&gt;SIGTYP&lt;/a&gt;, the ACL special interest group for computational typology, and a scholar of the European Lab for Learning and Intelligent Systems (&lt;a href=&#34;https://ellis.eu/fellows&#34;&gt;ELLIS&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Current lab members include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Piotr Nawrot&lt;/strong&gt; (PhD student), co-supervised with Ivan Titov at the University of Edinburgh.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Yifu Qiu&lt;/strong&gt; (PhD student), co-supervised with Shay Cohen and Anna Korhonen at the University of Edinburgh.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://hzhou.top/&#34;&gt;Han Zhou&lt;/a&gt;&lt;/strong&gt; (PhD student), co-supervised with Ivan Vulić and Anna Korhonen at the University of Cambridge.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>

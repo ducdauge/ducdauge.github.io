@@ -7,28 +7,9 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-uk</language>
     <copyright>Edoardo M. Ponti, {year}</copyright>
-    <lastBuildDate>Wed, 16 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://ducdauge.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>theory</title>
-      <link>https://ducdauge.github.io/tags/theory/</link>
-      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ducdauge.github.io/tags/theory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>rmarkdown</title>
-      <link>https://ducdauge.github.io/tags/rmarkdown/</link>
-      <pubDate>Mon, 04 Nov 2019 09:00:00 +0000</pubDate>
-      
-      <guid>https://ducdauge.github.io/tags/rmarkdown/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

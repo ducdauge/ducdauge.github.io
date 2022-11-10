@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Fine-tuning all parameters of a pre-trained model has become the mainstream approach for transfer learning. To increase its efficiency and prevent catastrophic forgetting and interference, techniques like adapters and sparse fine-tuning have been developed. Adapters are modular, as they can be combined to adapt a model towards different facets of knowledge (e.g., dedicated language and/or task adapters). Sparse fine-tuning is expressive, as it controls the behavior of all model components. In this work, we introduce a new fine-tuning method with both these desirable properties. In particular, we learn sparse, real-valued masks based on a simple variant of the Lottery Ticket Hypothesis. Task-specific masks are obtained from annotated data in a source language, and language-specific masks from masked language modeling in a target language. Both these masks can then be composed with the pre-trained model. Unlike adapter-based fine-tuning, this method neither increases the number of parameters at inference time nor alters the original model architecture. Most importantly, it outperforms adapters in zero-shot cross-lingual transfer by a large margin in a series of multilingual benchmarks, including Universal Dependencies, MasakhaNER, and AmericasNLI. Based on an in-depth analysis, we additionally find that sparsity is crucial to prevent both 1) interference between the fine-tunings to be composed and 2) overfitting. We release the code and models at https://github.com/cambridgeltl/composable-sft.">
+  <meta name="description" content="A modular design encourages neural models to disentangle and recombine different facets of knowledge to generalise more systematically to new tasks. In this work, we assume that each task is associated with a subset of latent skills from an (arbitrary size) inventory. In turn, each skill corresponds to a parameter-efficient (sparse / low-rank) model adapter. By jointly learning adapters and a routing function that allocates skills to each task, the full network is instantiated as the average of the parameters of active skills. We propose several inductive biases that encourage re-usage and composition of the skills, including variable-size skill allocation and a dual-speed learning rate. We evaluate our latent-skill model in two main settings: 1) multitask reinforcement learning for instruction following on 8 levels of the BabyAI platform; and 2) few-shot fine-tuning of language models on 160 NLP tasks of the CrossFit benchmark. We find that the modular design of our network enhances sample efficiency in reinforcement learning and few-shot generalisation in supervised learning, compared to a series of baselines. These include models where parameters are fully shared, task-specific, conditionally generated (HyperFormer), or sparse mixture-of-experts (TaskMoE).">
 
   
-  <link rel="alternate" hreflang="en-uk" href="https://ducdauge.github.io/publication/2021-sparseft/">
+  <link rel="alternate" hreflang="en-uk" href="https://ducdauge.github.io/publication/2022-polytropon/">
 
   
 
@@ -118,7 +118,7 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://ducdauge.github.io/publication/2021-sparseft/">
+  <link rel="canonical" href="https://ducdauge.github.io/publication/2022-polytropon/">
 
   
   
@@ -132,14 +132,14 @@
   <meta property="twitter:creator" content="@PontiEdoardo">
   
   <meta property="og:site_name" content="Edoardo M. Ponti">
-  <meta property="og:url" content="https://ducdauge.github.io/publication/2021-sparseft/">
-  <meta property="og:title" content="Composable Sparse Fine-Tuning for Cross-Lingual Transfer | Edoardo M. Ponti">
-  <meta property="og:description" content="Fine-tuning all parameters of a pre-trained model has become the mainstream approach for transfer learning. To increase its efficiency and prevent catastrophic forgetting and interference, techniques like adapters and sparse fine-tuning have been developed. Adapters are modular, as they can be combined to adapt a model towards different facets of knowledge (e.g., dedicated language and/or task adapters). Sparse fine-tuning is expressive, as it controls the behavior of all model components. In this work, we introduce a new fine-tuning method with both these desirable properties. In particular, we learn sparse, real-valued masks based on a simple variant of the Lottery Ticket Hypothesis. Task-specific masks are obtained from annotated data in a source language, and language-specific masks from masked language modeling in a target language. Both these masks can then be composed with the pre-trained model. Unlike adapter-based fine-tuning, this method neither increases the number of parameters at inference time nor alters the original model architecture. Most importantly, it outperforms adapters in zero-shot cross-lingual transfer by a large margin in a series of multilingual benchmarks, including Universal Dependencies, MasakhaNER, and AmericasNLI. Based on an in-depth analysis, we additionally find that sparsity is crucial to prevent both 1) interference between the fine-tunings to be composed and 2) overfitting. We release the code and models at https://github.com/cambridgeltl/composable-sft."><meta property="og:image" content="https://ducdauge.github.io/publication/2021-sparseft/featured.png">
+  <meta property="og:url" content="https://ducdauge.github.io/publication/2022-polytropon/">
+  <meta property="og:title" content="Combining Modular Skills in Multitask Learning | Edoardo M. Ponti">
+  <meta property="og:description" content="A modular design encourages neural models to disentangle and recombine different facets of knowledge to generalise more systematically to new tasks. In this work, we assume that each task is associated with a subset of latent skills from an (arbitrary size) inventory. In turn, each skill corresponds to a parameter-efficient (sparse / low-rank) model adapter. By jointly learning adapters and a routing function that allocates skills to each task, the full network is instantiated as the average of the parameters of active skills. We propose several inductive biases that encourage re-usage and composition of the skills, including variable-size skill allocation and a dual-speed learning rate. We evaluate our latent-skill model in two main settings: 1) multitask reinforcement learning for instruction following on 8 levels of the BabyAI platform; and 2) few-shot fine-tuning of language models on 160 NLP tasks of the CrossFit benchmark. We find that the modular design of our network enhances sample efficiency in reinforcement learning and few-shot generalisation in supervised learning, compared to a series of baselines. These include models where parameters are fully shared, task-specific, conditionally generated (HyperFormer), or sparse mixture-of-experts (TaskMoE)."><meta property="og:image" content="https://ducdauge.github.io/publication/2022-polytropon/featured.png">
   <meta property="og:locale" content="en-uk">
   
-  <meta property="article:published_time" content="2021-10-14T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2022-02-28T00:00:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2021-10-14T00:00:00&#43;00:00">
+  <meta property="article:modified_time" content="2022-02-28T00:00:00&#43;00:00">
   
 
   
@@ -177,7 +177,7 @@
 
 
 
-  <title>Composable Sparse Fine-Tuning for Cross-Lingual Transfer | Edoardo M. Ponti</title>
+  <title>Combining Modular Skills in Multitask Learning | Edoardo M. Ponti</title>
 
 </head>
 
@@ -367,7 +367,7 @@
 
 
 <div class="article-header d-xl-none">
-  <div class="featured-image" style="background-image: url('/publication/2021-sparseft/featured_hu51261c2bed078852d08ac9010cfe527f_99287_800x0_resize_lanczos_3.png');"></div>
+  <div class="featured-image" style="background-image: url('/publication/2022-polytropon/featured_huca0a45da77e228d66db6806310848442_508095_800x0_resize_lanczos_3.png');"></div>
   
 </div>
 
@@ -376,7 +376,7 @@
   <div class="row">
     <div class="col-6">
       <div class="split-header-content">
-        <h1 itemprop="name">Composable Sparse Fine-Tuning for Cross-Lingual Transfer</h1>
+        <h1 itemprop="name">Combining Modular Skills in Multitask Learning</h1>
 
         
 
@@ -384,8 +384,8 @@
 
 
 
-<meta content="2021-10-14 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2021-10-14 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+<meta content="2022-02-28 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2022-02-28 00:00:00 &#43;0000 UTC" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -398,7 +398,7 @@
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/alan-ansell/">Alan Ansell</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/edoardo-m.-ponti/">Edoardo M. Ponti</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/anna-korhonen/">Anna Korhonen</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person">Ivan Vulić</span>
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/edoardo-m.-ponti/">Edoardo M. Ponti</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/alessandro-sordoni/">Alessandro Sordoni</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/yoshua-bengio/">Yoshua Bengio</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/siva-reddy/">Siva Reddy</a></span>
 
   </div>
   
@@ -410,7 +410,7 @@
     
       
     
-    <time>2021-10-14</time>
+    <time>2022-02-28</time>
   </span>
   
 
@@ -460,7 +460,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/pdf/2110.07560.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/pdf/2202.13914.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -471,7 +471,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/cambridgeltl/composable-sft" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/McGill-NLP/polytropon" target="_blank" rel="noopener">
   Code
 </a>
 
@@ -504,7 +504,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://ducdauge.github.io/publication/2021-sparseft/&amp;text=Composable%20Sparse%20Fine-Tuning%20for%20Cross-Lingual%20Transfer" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://ducdauge.github.io/publication/2022-polytropon/&amp;text=Combining%20Modular%20Skills%20in%20Multitask%20Learning" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -517,7 +517,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://ducdauge.github.io/publication/2021-sparseft/&amp;t=Composable%20Sparse%20Fine-Tuning%20for%20Cross-Lingual%20Transfer" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://ducdauge.github.io/publication/2022-polytropon/&amp;t=Combining%20Modular%20Skills%20in%20Multitask%20Learning" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook-f"></i>
         </a>
       </li>
@@ -530,7 +530,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Composable%20Sparse%20Fine-Tuning%20for%20Cross-Lingual%20Transfer&amp;body=https://ducdauge.github.io/publication/2021-sparseft/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Combining%20Modular%20Skills%20in%20Multitask%20Learning&amp;body=https://ducdauge.github.io/publication/2022-polytropon/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -543,7 +543,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://ducdauge.github.io/publication/2021-sparseft/&amp;title=Composable%20Sparse%20Fine-Tuning%20for%20Cross-Lingual%20Transfer" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://ducdauge.github.io/publication/2022-polytropon/&amp;title=Combining%20Modular%20Skills%20in%20Multitask%20Learning" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -556,7 +556,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Composable%20Sparse%20Fine-Tuning%20for%20Cross-Lingual%20Transfer%20https://ducdauge.github.io/publication/2021-sparseft/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Combining%20Modular%20Skills%20in%20Multitask%20Learning%20https://ducdauge.github.io/publication/2022-polytropon/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -569,7 +569,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://ducdauge.github.io/publication/2021-sparseft/&amp;title=Composable%20Sparse%20Fine-Tuning%20for%20Cross-Lingual%20Transfer" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://ducdauge.github.io/publication/2022-polytropon/&amp;title=Combining%20Modular%20Skills%20in%20Multitask%20Learning" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -582,7 +582,7 @@
     </div>
     <div class="col-6">
       <div class="split-header-image">
-        <img src="/publication/2021-sparseft/featured_hu51261c2bed078852d08ac9010cfe527f_99287_680x500_fill_q90_lanczos_smart1_3.png" itemprop="image" alt="">
+        <img src="/publication/2022-polytropon/featured_huca0a45da77e228d66db6806310848442_508095_680x500_fill_q90_lanczos_smart1_3.png" itemprop="image" alt="">
         
       </div>
     </div>
@@ -590,7 +590,7 @@
 </div>
 
 <div class="article-container d-xl-none">
-  <h1 itemprop="name">Composable Sparse Fine-Tuning for Cross-Lingual Transfer</h1>
+  <h1 itemprop="name">Combining Modular Skills in Multitask Learning</h1>
 
   
 
@@ -598,8 +598,8 @@
 
 
 
-<meta content="2021-10-14 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2021-10-14 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+<meta content="2022-02-28 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2022-02-28 00:00:00 &#43;0000 UTC" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -612,7 +612,7 @@
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/alan-ansell/">Alan Ansell</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/edoardo-m.-ponti/">Edoardo M. Ponti</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/anna-korhonen/">Anna Korhonen</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person">Ivan Vulić</span>
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/edoardo-m.-ponti/">Edoardo M. Ponti</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/alessandro-sordoni/">Alessandro Sordoni</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/yoshua-bengio/">Yoshua Bengio</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/siva-reddy/">Siva Reddy</a></span>
 
   </div>
   
@@ -624,7 +624,7 @@
     
       
     
-    <time>2021-10-14</time>
+    <time>2022-02-28</time>
   </span>
   
 
@@ -651,7 +651,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://ducdauge.github.io/publication/2021-sparseft/&amp;text=Composable%20Sparse%20Fine-Tuning%20for%20Cross-Lingual%20Transfer" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://ducdauge.github.io/publication/2022-polytropon/&amp;text=Combining%20Modular%20Skills%20in%20Multitask%20Learning" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -664,7 +664,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://ducdauge.github.io/publication/2021-sparseft/&amp;t=Composable%20Sparse%20Fine-Tuning%20for%20Cross-Lingual%20Transfer" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://ducdauge.github.io/publication/2022-polytropon/&amp;t=Combining%20Modular%20Skills%20in%20Multitask%20Learning" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook-f"></i>
         </a>
       </li>
@@ -677,7 +677,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Composable%20Sparse%20Fine-Tuning%20for%20Cross-Lingual%20Transfer&amp;body=https://ducdauge.github.io/publication/2021-sparseft/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Combining%20Modular%20Skills%20in%20Multitask%20Learning&amp;body=https://ducdauge.github.io/publication/2022-polytropon/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -690,7 +690,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://ducdauge.github.io/publication/2021-sparseft/&amp;title=Composable%20Sparse%20Fine-Tuning%20for%20Cross-Lingual%20Transfer" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://ducdauge.github.io/publication/2022-polytropon/&amp;title=Combining%20Modular%20Skills%20in%20Multitask%20Learning" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -703,7 +703,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Composable%20Sparse%20Fine-Tuning%20for%20Cross-Lingual%20Transfer%20https://ducdauge.github.io/publication/2021-sparseft/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Combining%20Modular%20Skills%20in%20Multitask%20Learning%20https://ducdauge.github.io/publication/2022-polytropon/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -716,7 +716,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://ducdauge.github.io/publication/2021-sparseft/&amp;title=Composable%20Sparse%20Fine-Tuning%20for%20Cross-Lingual%20Transfer" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://ducdauge.github.io/publication/2022-polytropon/&amp;title=Combining%20Modular%20Skills%20in%20Multitask%20Learning" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -760,7 +760,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/pdf/2110.07560.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/pdf/2202.13914.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -771,7 +771,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/cambridgeltl/composable-sft" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/McGill-NLP/polytropon" target="_blank" rel="noopener">
   Code
 </a>
 
@@ -799,7 +799,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">Fine-tuning all parameters of a pre-trained model has become the mainstream approach for transfer learning. To increase its efficiency and prevent catastrophic forgetting and interference, techniques like adapters and sparse fine-tuning have been developed. Adapters are modular, as they can be combined to adapt a model towards different facets of knowledge (e.g., dedicated language and/or task adapters). Sparse fine-tuning is expressive, as it controls the behavior of all model components. In this work, we introduce a new fine-tuning method with both these desirable properties. In particular, we learn sparse, real-valued masks based on a simple variant of the Lottery Ticket Hypothesis. Task-specific masks are obtained from annotated data in a source language, and language-specific masks from masked language modeling in a target language. Both these masks can then be composed with the pre-trained model. Unlike adapter-based fine-tuning, this method neither increases the number of parameters at inference time nor alters the original model architecture. Most importantly, it outperforms adapters in zero-shot cross-lingual transfer by a large margin in a series of multilingual benchmarks, including Universal Dependencies, MasakhaNER, and AmericasNLI. Based on an in-depth analysis, we additionally find that sparsity is crucial to prevent both 1) interference between the fine-tunings to be composed and 2) overfitting. We release the code and models at <a href="https://github.com/cambridgeltl/composable-sft">https://github.com/cambridgeltl/composable-sft</a>.</p>
+    <p class="pub-abstract" itemprop="text">A modular design encourages neural models to disentangle and recombine different facets of knowledge to generalise more systematically to new tasks. In this work, we assume that each task is associated with a subset of latent skills from an (arbitrary size) inventory. In turn, each skill corresponds to a parameter-efficient (sparse / low-rank) model adapter. By jointly learning adapters and a routing function that allocates skills to each task, the full network is instantiated as the average of the parameters of active skills. We propose several inductive biases that encourage re-usage and composition of the skills, including variable-size skill allocation and a dual-speed learning rate. We evaluate our latent-skill model in two main settings: 1) multitask reinforcement learning for instruction following on 8 levels of the BabyAI platform; and 2) few-shot fine-tuning of language models on 160 NLP tasks of the CrossFit benchmark. We find that the modular design of our network enhances sample efficiency in reinforcement learning and few-shot generalisation in supervised learning, compared to a series of baselines. These include models where parameters are fully shared, task-specific, conditionally generated (HyperFormer), or sparse mixture-of-experts (TaskMoE).</p>
     
 
     
@@ -831,7 +831,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">arXiv:2110.07560</div>
+          <div class="col-12 col-md-9">arXiv:2202.13914</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -873,7 +873,7 @@
     
 
     <div class="media-body">
-      <h5 class="card-title" itemprop="name"><a href="/authors/alan-ansell/"></a></h5>
+      <h5 class="card-title" itemprop="name"><a href="/authors/edoardo-m.-ponti/"></a></h5>
       
       
       <ul class="network-icon" aria-hidden="true">
