@@ -1,358 +1,216 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://ducdauge.github.io/twitter/widget/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/publication_types/2/</loc>
     <lastmod>2021-11-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/authors/</loc>
     <lastmod>2021-11-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/authors/desmond-elliott/</loc>
     <lastmod>2021-11-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ducdauge.github.io/</loc>
-    <lastmod>2021-11-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/authors/edoardo-m.-ponti/</loc>
     <lastmod>2021-11-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://ducdauge.github.io/</loc>
+    <lastmod>2021-11-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ducdauge.github.io/authors/emanuele-bugliarello/</loc>
     <lastmod>2021-11-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/authors/fangyu-liu/</loc>
     <lastmod>2021-11-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/authors/ivan-vuli%C4%87/</loc>
     <lastmod>2021-11-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/authors/julia-kreutzer/</loc>
     <lastmod>2021-11-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/publication/2021-latent-translation/</loc>
     <lastmod>2021-11-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/authors/nigel-collier/</loc>
     <lastmod>2021-11-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/publication_types/</loc>
     <lastmod>2021-11-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/publication/</loc>
     <lastmod>2021-11-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/authors/siva-reddy/</loc>
     <lastmod>2021-11-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/publication/2021-marvl/</loc>
     <lastmod>2021-11-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/authors/alan-ansell/</loc>
     <lastmod>2021-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/authors/anna-korhonen/</loc>
     <lastmod>2021-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/publication/2021-sparseft/</loc>
     <lastmod>2021-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/datasets/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/authors/emponti/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/post/2020-prior-initialization/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/post/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/tags/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/tags/theory/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/publication_types/3/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/authors/goran-glava%C5%A1/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/authors/olga-majewska/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/authors/qianchu-liu/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/publication/2020-xcopa/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/authors/eden-bar/</loc>
     <lastmod>2020-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/authors/edoardo-maria-ponti/</loc>
     <lastmod>2020-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/authors/ira-leviant/</loc>
     <lastmod>2020-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/authors/kelly-wing/</loc>
     <lastmod>2020-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/authors/matt-malone/</loc>
     <lastmod>2020-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/publication/2020-multi-simlex/</loc>
     <lastmod>2020-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/authors/roi-reichart/</loc>
     <lastmod>2020-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/authors/simon-baker/</loc>
     <lastmod>2020-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/authors/thierry-poibeau/</loc>
     <lastmod>2020-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/authors/ulla-petti/</loc>
     <lastmod>2020-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/authors/marinela-parovic/</loc>
     <lastmod>2020-01-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/publication/2020-parameter-space/</loc>
     <lastmod>2020-01-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/authors/ryan-cotterell/</loc>
     <lastmod>2020-01-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/talk/</loc>
     <lastmod>2019-11-04T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/categories/</loc>
     <lastmod>2019-11-04T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/tags/rmarkdown/</loc>
     <lastmod>2019-11-04T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/talk/2019-semantic-specialization-tutorial/</loc>
     <lastmod>2019-11-04T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/categories/talk/</loc>
     <lastmod>2019-11-04T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/publication_types/1/</loc>
     <lastmod>2019-11-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/publication/2019-crosslingual-specialization/</loc>
     <lastmod>2019-11-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/publication/2019-towards-zero/</loc>
     <lastmod>2019-11-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/authors/anne-lauscher/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/publication/2019-informing-unsupervised/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/authors/aishwarya-kamath/</loc>
     <lastmod>2019-08-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/authors/edoardo-ponti/</loc>
     <lastmod>2019-08-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/authors/jonas-pfeiffer/</loc>
     <lastmod>2019-08-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/publication/2019-specializing-all/</loc>
     <lastmod>2019-08-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/talk/2019-multilingual-language-modeling/</loc>
     <lastmod>2019-04-11T17:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/contact/</loc>
     <lastmod>2019-02-25T13:38:41-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/contact/</loc>
     <lastmod>2019-02-25T13:38:41-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/authors/ekaterina-shutova/</loc>
     <lastmod>2019-02-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/authors/helen-ohoran/</loc>
     <lastmod>2019-02-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/publication/2019-modeling-language/</loc>
     <lastmod>2019-02-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/authors/yevgeni-berzak/</loc>
     <lastmod>2019-02-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/about/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/talks/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/talk/2019-prospettive-ia/</loc>
     <lastmod>2018-11-29T21:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/publication/2018-adversarial-propagation/</loc>
     <lastmod>2018-10-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/authors/nikola-mrk%C5%A1i%C4%87/</loc>
     <lastmod>2018-10-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/license/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ducdauge.github.io/twitter/</loc>
   </url>
-  
 </urlset>
