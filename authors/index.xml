@@ -320,6 +320,15 @@
     
     <item>
       <title></title>
+      <link>https://ducdauge.github.io/authors/emile_van-krieken/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/authors/emile_van-krieken/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://ducdauge.github.io/authors/emponti/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -335,12 +344,34 @@
 &lt;li&gt;&lt;strong&gt;computational typology&lt;/strong&gt; and &lt;strong&gt;multilingual NLP&lt;/strong&gt;, using computational tools to model the universals and variation of the world&amp;rsquo;s languages.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;My research earned a &lt;a href=&#34;https://ai.google/research/outreach/faculty-research-awards/&#34;&gt;Google Research Faculty Award&lt;/a&gt; and an &lt;a href=&#34;https://www.mmll.cam.ac.uk/news/prof-anna-korhonens-project-enabling-multilingual-conversational-ai-awarded-erc-proof-concept&#34;&gt;ERC Proof of Concept grant&lt;/a&gt; on multilingual conversational AI. I received 2 Best Paper Awards at &lt;a href=&#34;https://2021.emnlp.org/blog/2021-10-29-best-paper-awards/&#34;&gt;EMNLP 2021&lt;/a&gt; and &lt;a href=&#34;https://www.aclweb.org/anthology/W19-4310.pdf&#34;&gt;RepL4NLP 2019&lt;/a&gt;. I am a board member of &lt;a href=&#34;https://sigtyp.github.io/&#34;&gt;SIGTYP&lt;/a&gt;, the ACL special interest group for computational typology, and a scholar of the European Lab for Learning and Intelligent Systems (&lt;a href=&#34;https://ellis.eu/fellows&#34;&gt;ELLIS&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;Current lab members include:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://piotrnawrot.github.io&#34;&gt;Piotr Nawrot&lt;/a&gt;&lt;/strong&gt; (PhD student), co-supervised with Ivan Titov at the University of Edinburgh.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://yfqiu.netlify.app/&#34;&gt;Yifu Qiu&lt;/a&gt;&lt;/strong&gt; (PhD student), co-supervised with Shay Cohen and Anna Korhonen at the University of Edinburgh.&lt;/li&gt;
-&lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ducdauge.github.io/authors/nina_gregorio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/authors/nina_gregorio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ducdauge.github.io/authors/piotr_nawrot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/authors/piotr_nawrot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ducdauge.github.io/authors/yifu_qiu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/authors/yifu_qiu/</guid>
+      <description></description>
     </item>
     
   </channel>
