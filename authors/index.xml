@@ -7,10 +7,100 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-uk</language>
     <copyright>Edoardo M. Ponti, {year}</copyright>
-    <lastBuildDate>Mon, 28 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://ducdauge.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Benjamin Minixhofer</title>
+      <link>https://ducdauge.github.io/authors/benjamin-minixhofer/</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/authors/benjamin-minixhofer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edoardo M. Ponti</title>
+      <link>https://ducdauge.github.io/authors/edoardo-m.-ponti/</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/authors/edoardo-m.-ponti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ivan Vulić</title>
+      <link>https://ducdauge.github.io/authors/ivan-vuli%C4%87/</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/authors/ivan-vuli%C4%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adrian Łańcucki</title>
+      <link>https://ducdauge.github.io/authors/adrian-%C5%82a%C5%84cucki/</link>
+      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/authors/adrian-%C5%82a%C5%84cucki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Tarjan</title>
+      <link>https://ducdauge.github.io/authors/david-tarjan/</link>
+      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/authors/david-tarjan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marcin Chochowski</title>
+      <link>https://ducdauge.github.io/authors/marcin-chochowski/</link>
+      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/authors/marcin-chochowski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Piotr Nawrot</title>
+      <link>https://ducdauge.github.io/authors/piotr-nawrot/</link>
+      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/authors/piotr-nawrot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alan Ansell</title>
+      <link>https://ducdauge.github.io/authors/alan-ansell/</link>
+      <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/authors/alan-ansell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anna Korhonen</title>
+      <link>https://ducdauge.github.io/authors/anna-korhonen/</link>
+      <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/authors/anna-korhonen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hannah Sterz</title>
+      <link>https://ducdauge.github.io/authors/hannah-sterz/</link>
+      <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/authors/hannah-sterz/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Alessandro Sordoni</title>
@@ -18,15 +108,6 @@
       <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ducdauge.github.io/authors/alessandro-sordoni/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Edoardo M. Ponti</title>
-      <link>https://ducdauge.github.io/authors/edoardo-m.-ponti/</link>
-      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://ducdauge.github.io/authors/edoardo-m.-ponti/</guid>
       <description></description>
     </item>
     
@@ -76,15 +157,6 @@
     </item>
     
     <item>
-      <title>Ivan Vulić</title>
-      <link>https://ducdauge.github.io/authors/ivan-vuli%C4%87/</link>
-      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://ducdauge.github.io/authors/ivan-vuli%C4%87/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Julia Kreutzer</title>
       <link>https://ducdauge.github.io/authors/julia-kreutzer/</link>
       <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
@@ -99,24 +171,6 @@
       <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ducdauge.github.io/authors/nigel-collier/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Alan Ansell</title>
-      <link>https://ducdauge.github.io/authors/alan-ansell/</link>
-      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://ducdauge.github.io/authors/alan-ansell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Anna Korhonen</title>
-      <link>https://ducdauge.github.io/authors/anna-korhonen/</link>
-      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://ducdauge.github.io/authors/anna-korhonen/</guid>
       <description></description>
     </item>
     
@@ -360,18 +414,22 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ducdauge.github.io/authors/emponti/</guid>
-      <description>&lt;p&gt;I am a Lecturer (≈ Assistant Professor) in Natural Language Processing at the &lt;a href=&#34;https://edinburghnlp.inf.ed.ac.uk/&#34;&gt;University of Edinburgh&lt;/a&gt;, where I am part of the Institute for Language, Cognition, and Computation (&lt;a href=&#34;https://web.inf.ed.ac.uk/ilcc&#34;&gt;ILCC&lt;/a&gt;), and an Affiliated Lecturer at the &lt;a href=&#34;https://ltl.mmll.cam.ac.uk/&#34;&gt;University of Cambridge&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;If you are a prospective student, collaborator, or industry partner please visit the &lt;a href=&#34;faq&#34;&gt;FAQ&lt;/a&gt; page for more information.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Previously, I was a visiting postdoctoral scholar at &lt;a href=&#34;https://www.stanford.edu/&#34;&gt;Stanford University&lt;/a&gt; and a postdoctoral fellow in computer science at &lt;a href=&#34;https://mila.quebec/en/&#34;&gt;Mila - Quebec AI Institute&lt;/a&gt; in Montreal. In 2021, I obtained a PhD in computational linguistics from the &lt;a href=&#34;https://www.cam.ac.uk/&#34;&gt;University of Cambridge&lt;/a&gt;, &lt;a href=&#34;https://www.joh.cam.ac.uk/&#34;&gt;St John&amp;rsquo;s College&lt;/a&gt;. I interned as AI/ML researcher at &lt;a href=&#34;https://www.apple.com/&#34;&gt;Apple&lt;/a&gt; in Cupertino.&lt;/p&gt;
-&lt;p&gt;The main research foci of my lab are:&lt;/p&gt;
+      <description>&lt;p&gt;I am a lecturer (≈ assistant professor) in Natural Language Processing at the &lt;a href=&#34;https://edinburghnlp.inf.ed.ac.uk/&#34;&gt;University of Edinburgh&lt;/a&gt; and an affiliated lecturer at the &lt;a href=&#34;https://ltl.mmll.cam.ac.uk/&#34;&gt;University of Cambridge&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;If you are a prospective student or industry partner please visit the &lt;a href=&#34;faq&#34;&gt;FAQ&lt;/a&gt; page for more information.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Previously, I was a visiting postdoctoral scholar at &lt;a href=&#34;https://www.stanford.edu/&#34;&gt;Stanford University&lt;/a&gt; and a postdoctoral fellow in computer science at &lt;a href=&#34;https://mila.quebec/en/&#34;&gt;Mila - Quebec AI Institute&lt;/a&gt; in Montreal. In 2021, I obtained a PhD from the &lt;a href=&#34;https://www.cam.ac.uk/&#34;&gt;University of Cambridge&lt;/a&gt;, &lt;a href=&#34;https://www.joh.cam.ac.uk/&#34;&gt;St John&amp;rsquo;s College&lt;/a&gt;. Once upon a time I studied typological and historical linguistics at the &lt;a href=&#34;https://web-en.unipv.it/&#34;&gt;University of Pavia&lt;/a&gt; (deep in my heart, I am still a humanist).&lt;/p&gt;
+&lt;p&gt;My research has been featured on the &lt;a href=&#34;https://www.economist.com/science-and-technology/2024/02/28/ai-models-make-stuff-up-how-can-hallucinations-be-controlled&#34;&gt;Economist&lt;/a&gt; and &lt;a href=&#34;https://www.scientificamerican.com/article/what-the-quest-to-build-a-truly-intelligent-machine-is-teaching-us/&#34;&gt;Scientific American&lt;/a&gt;. The main research foci of my lab are:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;modular deep learning&lt;/strong&gt; [&lt;a href=&#34;https://arxiv.org/abs/2302.11529&#34;&gt;1&lt;/a&gt;]: designing neural architectures that route information to specialised, autonomous modules. This includes sparse adaptation for parameter-efficient fine-tuning [&lt;a href=&#34;https://aclanthology.org/2022.acl-long.125/&#34;&gt;2&lt;/a&gt;], recombing skills for systematic generalisation [&lt;a href=&#34;https://aclanthology.org/2021.tacl-1.25/&#34;&gt;3&lt;/a&gt;, &lt;a href=&#34;https://aclanthology.org/2023.eacl-main.49.pdf&#34;&gt;4&lt;/a&gt;], and model merging [&lt;a href=&#34;https://arxiv.org/abs/2303.17574&#34;&gt;5&lt;/a&gt;].&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;grounding&lt;/strong&gt;: language learning and use in perception and action, taking into account the world&amp;rsquo;s cross-cultural diversity [&lt;a href=&#34;https://aclanthology.org/2021.emnlp-main.818/&#34;&gt;6&lt;/a&gt;], integrating vision into language models [&lt;a href=&#34;https://proceedings.mlr.press/v162/bugliarello22a.html&#34;&gt;7&lt;/a&gt;], and probing LLMs for the temporal aspects of their internal world model;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;computational typology&lt;/strong&gt; [&lt;a href=&#34;https://direct.mit.edu/coli/article/45/3/559/93372/Modeling-Language-Variation-and-Universals-A&#34;&gt;8&lt;/a&gt;]: using computational tools to study the cross-lingual variation of the world&amp;rsquo;s languages scientifically [&lt;a href=&#34;https://aclanthology.org/2023.sigtyp-1.18.pdf&#34;&gt;9&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/2102.05717&#34;&gt;10&lt;/a&gt;].&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;multilingual natural language processing&lt;/strong&gt;: developing language technology in a diverse range of languages, by finding the correct inductive biases for sample efficient learning [&lt;a href=&#34;https://aclanthology.org/D19-1288/&#34;&gt;11&lt;/a&gt;] or jointly learning how to translate and classify / generate [&lt;a href=&#34;https://arxiv.org/abs/2107.11353&#34;&gt;12&lt;/a&gt;]; creating new annotated multilingual datasets [&lt;a href=&#34;https://aclanthology.org/2020.emnlp-main.185/&#34;&gt;13&lt;/a&gt;, &lt;a href=&#34;https://direct.mit.edu/coli/article/46/4/847/97326/Multi-SimLex-A-Large-Scale-Evaluation-of&#34;&gt;14&lt;/a&gt;].&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;tokenization-free language modelling&lt;/strong&gt;: jointly performing input segmentation and self-supervised learning, by inducing hierarchical abstractions on top of raw inputs [&lt;a href=&#34;https://aclanthology.org/2023.acl-long.353/&#34;&gt;15&lt;/a&gt;].&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://arxiv.org/abs/2302.11529&#34;&gt;modular deep learning&lt;/a&gt;&lt;/strong&gt;: I am interested in designing neural architectures that route information to specialised modules (e.g., sparse subnetworks). This facilitates systematic generalisation and conditional computation. It also helps control the model&amp;rsquo;s behaviour, e.g., mitigating its hallucinations.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;efficient architectures&lt;/strong&gt;: The goal is to make language models more efficient by compressing their intermediate representations and memory. As a side effect, this also makes them break free from tokenizers and learn hierarchical abstractions over raw data.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;computational typology&lt;/strong&gt;: I wish to understand how language varies, across the world and its cultures, with the help of computational tools. Multimodal models in particular give us an powerful tool to study how form depends on grounded, embodied representations of meaning and function.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;My research earned a &lt;a href=&#34;https://ai.google/research/outreach/faculty-research-awards/&#34;&gt;Google Research Faculty Award&lt;/a&gt;. I received 2 Best Paper Awards at &lt;a href=&#34;https://2021.emnlp.org/blog/2021-10-29-best-paper-awards/&#34;&gt;EMNLP 2021&lt;/a&gt; and &lt;a href=&#34;https://www.aclweb.org/anthology/W19-4310.pdf&#34;&gt;RepL4NLP 2019&lt;/a&gt;. I am a board member of &lt;a href=&#34;https://sigtyp.github.io/&#34;&gt;SIGTYP&lt;/a&gt;, the ACL special interest group for computational typology, a scholar of the European Lab for Learning and Intelligent Systems (&lt;a href=&#34;https://ellis.eu/fellows&#34;&gt;ELLIS&lt;/a&gt;), and part of the &lt;a href=&#34;https://transacl.org/index.php/tacl&#34;&gt;TACL&lt;/a&gt; journal editorial team. I am a scientific advisor for the AI company &lt;a href=&#34;https://ivadolabs.com/en/&#34;&gt;Ivado Labs&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;My research earned a &lt;a href=&#34;https://ai.google/research/outreach/faculty-research-awards/&#34;&gt;Google Research Faculty Award&lt;/a&gt;. I received 2 Best Paper Awards at &lt;a href=&#34;https://2021.emnlp.org/blog/2021-10-29-best-paper-awards/&#34;&gt;EMNLP 2021&lt;/a&gt; and &lt;a href=&#34;https://www.aclweb.org/anthology/W19-4310.pdf&#34;&gt;RepL4NLP 2019&lt;/a&gt;. I am a board member of &lt;a href=&#34;https://sigtyp.github.io/&#34;&gt;SIGTYP&lt;/a&gt;, the ACL special interest group for computational typology, a member of the European Lab for Learning and Intelligent Systems (&lt;a href=&#34;https://ellis.eu/fellows&#34;&gt;ELLIS&lt;/a&gt;), and part of the &lt;a href=&#34;https://transacl.org/index.php/tacl&#34;&gt;TACL&lt;/a&gt; journal editorial team.&lt;/p&gt;
 </description>
     </item>
     

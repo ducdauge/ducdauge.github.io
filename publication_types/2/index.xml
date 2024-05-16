@@ -7,10 +7,37 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-uk</language>
     <copyright>Edoardo M. Ponti, {year}</copyright>
-    <lastBuildDate>Mon, 28 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://ducdauge.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Zero-Shot Tokenizer Transfer</title>
+      <link>https://ducdauge.github.io/publication/2024-zett/</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/publication/2024-zett/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Memory Compression: Retrofitting LLMs for Accelerated Inference</title>
+      <link>https://ducdauge.github.io/publication/2024-dmc/</link>
+      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/publication/2024-dmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scaling Sparse Fine-Tuning to Large Language Models</title>
+      <link>https://ducdauge.github.io/publication/2024-sft/</link>
+      <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/publication/2024-sft/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Combining Modular Skills in Multitask Learning</title>

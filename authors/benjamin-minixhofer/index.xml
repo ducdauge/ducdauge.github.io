@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Benjamin Minixhofer on Edoardo M. Ponti</title>
+    <link>https://ducdauge.github.io/authors/benjamin-minixhofer/</link>
+    <description>Recent content in Benjamin Minixhofer on Edoardo M. Ponti</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-uk</language>
+    <copyright>Edoardo M. Ponti, {year}</copyright>
+    <lastBuildDate>Mon, 13 May 2024 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://ducdauge.github.io/authors/benjamin-minixhofer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Zero-Shot Tokenizer Transfer</title>
+      <link>https://ducdauge.github.io/publication/2024-zett/</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/publication/2024-zett/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
