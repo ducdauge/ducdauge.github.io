@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kelly Marchisio on Edoardo M. Ponti</title>
+    <link>https://ducdauge.github.io/authors/kelly-marchisio/</link>
+    <description>Recent content in Kelly Marchisio on Edoardo M. Ponti</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-uk</language>
+    <copyright>Edoardo M. Ponti, {year}</copyright>
+    <lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://ducdauge.github.io/authors/kelly-marchisio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Sparse Frontier: Sparse Attention Trade-offs in Transformer LLMs</title>
+      <link>https://ducdauge.github.io/publication/2025-sparse-frontier/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/publication/2025-sparse-frontier/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

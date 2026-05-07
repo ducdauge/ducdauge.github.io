@@ -7,44 +7,26 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-uk</language>
     <copyright>Edoardo M. Ponti, {year}</copyright>
-    <lastBuildDate>Sun, 03 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Nov 2025 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://ducdauge.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Cross-lingual Semantic Specialization via Lexical Relation Induction</title>
-      <link>https://ducdauge.github.io/publication/2019-crosslingual-specialization/</link>
-      <pubDate>Sun, 03 Nov 2019 00:00:00 +0000</pubDate>
+      <title>Inference-Time Hyper-Scaling with KV Cache Compression</title>
+      <link>https://ducdauge.github.io/publication/2025-dms/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://ducdauge.github.io/publication/2019-crosslingual-specialization/</guid>
+      <guid>https://ducdauge.github.io/publication/2025-dms/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Towards Zero-shot Language Modeling</title>
-      <link>https://ducdauge.github.io/publication/2019-towards-zero/</link>
-      <pubDate>Sun, 03 Nov 2019 00:00:00 +0000</pubDate>
+      <title>Efficient Transformers with Dynamic Token Pooling</title>
+      <link>https://ducdauge.github.io/publication/2023-dynamic-token-pooling/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://ducdauge.github.io/publication/2019-towards-zero/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Specializing Distributional Vectors of All Words for Lexical Entailment</title>
-      <link>https://ducdauge.github.io/publication/2019-specializing-all/</link>
-      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://ducdauge.github.io/publication/2019-specializing-all/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Adversarial Propagation and Zero-Shot Cross-Lingual Transfer of Word Vector Specialization</title>
-      <link>https://ducdauge.github.io/publication/2018-adversarial-propagation/</link>
-      <pubDate>Sat, 27 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://ducdauge.github.io/publication/2018-adversarial-propagation/</guid>
+      <guid>https://ducdauge.github.io/publication/2023-dynamic-token-pooling/</guid>
       <description></description>
     </item>
     

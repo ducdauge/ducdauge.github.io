@@ -7,10 +7,73 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-uk</language>
     <copyright>Edoardo M. Ponti, {year}</copyright>
-    <lastBuildDate>Mon, 13 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://ducdauge.github.io/authors/edoardo-m.-ponti/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AdaSplash-2: Faster Differentiable Sparse Attention</title>
+      <link>https://ducdauge.github.io/publication/2026-adasplash-2/</link>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/publication/2026-adasplash-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Improving World Modelling with Latent Actions</title>
+      <link>https://ducdauge.github.io/publication/2026-swirl/</link>
+      <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/publication/2026-swirl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bolmo: Byteifying the Next Generation of Language Models</title>
+      <link>https://ducdauge.github.io/publication/2025-bolmo/</link>
+      <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/publication/2025-bolmo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast and Expressive Multi-Token Prediction with Probabilistic Circuits</title>
+      <link>https://ducdauge.github.io/publication/2025-mtpc/</link>
+      <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/publication/2025-mtpc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inference-Time Hyper-Scaling with KV Cache Compression</title>
+      <link>https://ducdauge.github.io/publication/2025-dms/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/publication/2025-dms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bootstrapping Action-Grounded Visual Dynamics in Unified Vision-Language Models</title>
+      <link>https://ducdauge.github.io/publication/2025-vlm-world-model/</link>
+      <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/publication/2025-vlm-world-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Sparse Frontier: Sparse Attention Trade-offs in Transformer LLMs</title>
+      <link>https://ducdauge.github.io/publication/2025-sparse-frontier/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/publication/2025-sparse-frontier/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Zero-Shot Tokenizer Transfer</title>
@@ -27,6 +90,15 @@
       <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
       
       <guid>https://ducdauge.github.io/publication/2024-dmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Transformers with Dynamic Token Pooling</title>
+      <link>https://ducdauge.github.io/publication/2023-dynamic-token-pooling/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/publication/2023-dynamic-token-pooling/</guid>
       <description></description>
     </item>
     

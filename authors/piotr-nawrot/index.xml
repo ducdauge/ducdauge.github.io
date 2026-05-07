@@ -7,10 +7,37 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-uk</language>
     <copyright>Edoardo M. Ponti, {year}</copyright>
-    <lastBuildDate>Thu, 14 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Nov 2025 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://ducdauge.github.io/authors/piotr-nawrot/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fast and Expressive Multi-Token Prediction with Probabilistic Circuits</title>
+      <link>https://ducdauge.github.io/publication/2025-mtpc/</link>
+      <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/publication/2025-mtpc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inference-Time Hyper-Scaling with KV Cache Compression</title>
+      <link>https://ducdauge.github.io/publication/2025-dms/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/publication/2025-dms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Sparse Frontier: Sparse Attention Trade-offs in Transformer LLMs</title>
+      <link>https://ducdauge.github.io/publication/2025-sparse-frontier/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/publication/2025-sparse-frontier/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dynamic Memory Compression: Retrofitting LLMs for Accelerated Inference</title>
@@ -18,6 +45,15 @@
       <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
       
       <guid>https://ducdauge.github.io/publication/2024-dmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Transformers with Dynamic Token Pooling</title>
+      <link>https://ducdauge.github.io/publication/2023-dynamic-token-pooling/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/publication/2023-dynamic-token-pooling/</guid>
       <description></description>
     </item>
     

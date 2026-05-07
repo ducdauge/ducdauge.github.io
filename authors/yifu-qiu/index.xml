@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yifu Qiu on Edoardo M. Ponti</title>
+    <link>https://ducdauge.github.io/authors/yifu-qiu/</link>
+    <description>Recent content in Yifu Qiu on Edoardo M. Ponti</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-uk</language>
+    <copyright>Edoardo M. Ponti, {year}</copyright>
+    <lastBuildDate>Sun, 08 Feb 2026 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://ducdauge.github.io/authors/yifu-qiu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Self-Improving World Modelling with Latent Actions</title>
+      <link>https://ducdauge.github.io/publication/2026-swirl/</link>
+      <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/publication/2026-swirl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bootstrapping Action-Grounded Visual Dynamics in Unified Vision-Language Models</title>
+      <link>https://ducdauge.github.io/publication/2025-vlm-world-model/</link>
+      <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/publication/2025-vlm-world-model/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
