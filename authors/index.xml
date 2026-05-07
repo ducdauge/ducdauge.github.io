@@ -360,7 +360,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ducdauge.github.io/authors/emponti/</guid>
-      <description>&lt;p&gt;I am an assistant professor in Natural Language Processing at the &lt;a href=&#34;https://edinburghnlp.inf.ed.ac.uk/&#34;&gt;University of Edinburgh&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;From August 2026, I will be an associate professor in Natural Language Processing at the Department of Computing of &lt;a href=&#34;https://www.imperial.ac.uk/computing/&#34;&gt;Imperial College London&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;If you are a prospective PhD student or postdoc please visit the &lt;a href=&#34;faq&#34;&gt;FAQ&lt;/a&gt; page for more information.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;I am currently leading two main projects:&lt;/p&gt;
 &lt;ul&gt;
@@ -368,20 +368,6 @@
 &lt;li&gt;&lt;a href=&#34;https://www.teasbench.com/&#34;&gt;&lt;strong&gt;Tracking Evolving AI and Systems&lt;/strong&gt;&lt;/a&gt; (TEAS ☕︎), which aims at benchmarking cost–accuracy–performance trade-offs in existing hardware and devising analytical tools to extrapolate performance to new hardware.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;My research focuses on:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;adaptive memory and tokenization in foundation models&lt;/strong&gt; (see my &lt;a href=&#34;https://dynamic-sparsity.github.io/&#34;&gt;NeurIPS 2024 tutorial on dynamic sparsity&lt;/a&gt;): I aim to redefine the &lt;em&gt;units of computation&lt;/em&gt; of foundation models by adaptively compressing the sequences of their hidden representations and memory. This allows models to tokenize raw, modality-agnostic data end-to-end, learning hierarchical abstractions. Simultaneously, it provides the foundations for permanent model memories and inference-time hyper-scaling.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://arxiv.org/abs/2302.11529&#34;&gt;modular deep learning&lt;/a&gt;&lt;/strong&gt;: I am interested in designing neural architectures that route information to specialised modules (e.g., sparse subnetworks). This facilitates systematic generalisation and conditional computation.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;computational typology&lt;/strong&gt;: I wish to understand how languages vary, across the world and its cultures, within a computational framework. Multimodal models in particular give us a powerful tool to study how form depends on grounded, embodied representations of meaning and function.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;I spent the last year as a visiting professor at NVIDIA.
-Previously, I was a visiting postdoctoral scholar at Stanford University and a postdoctoral fellow in computer science at Mila - Quebec AI Institute in Montreal. In 2021, I obtained a PhD from the University of Cambridge, St John&amp;rsquo;s College. Once upon a time I studied modern literature at the University of Pavia. Deep in my heart, I am still a humanist: some of my favourite writers are Italo Calvino, Ursula Le Guin, and Titus Lucretius Carus.&lt;/p&gt;
-&lt;p&gt;My research has been featured on the &lt;a href=&#34;https://www.economist.com/science-and-technology/2024/02/28/ai-models-make-stuff-up-how-can-hallucinations-be-controlled&#34;&gt;Economist&lt;/a&gt; and &lt;a href=&#34;https://www.scientificamerican.com/article/what-the-quest-to-build-a-truly-intelligent-machine-is-teaching-us/&#34;&gt;Scientific American&lt;/a&gt;, among others. It is currently supported by ERC, ARIA, and various gifts/compute from Google DeepMind, NVIDIA, and NatWest. I also received a &lt;a href=&#34;https://ai.google/research/outreach/faculty-research-awards/&#34;&gt;Google Research Faculty Award&lt;/a&gt;, and Best Paper / SAC Highlight Awards at ACL, EMNLP, and RepL4NLP. I am a board member of &lt;a href=&#34;https://sigtyp.github.io/&#34;&gt;SIGTYP&lt;/a&gt;, the ACL special interest group for computational typology, a Scholar of the European Lab for Learning and Intelligent Systems (&lt;a href=&#34;https://ellis.eu/fellows&#34;&gt;ELLIS&lt;/a&gt;), and part of the &lt;a href=&#34;https://transacl.org/index.php/tacl&#34;&gt;TACL&lt;/a&gt; journal editorial team.&lt;/p&gt;
 </description>
     </item>
     
