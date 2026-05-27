@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-uk</language>
     <copyright>Edoardo M. Ponti, {year}</copyright>
-    <lastBuildDate>Thu, 16 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://ducdauge.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>André F. T. Martins</title>
       <link>https://ducdauge.github.io/authors/andr%C3%A9-f.-t.-martins/</link>
-      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
       
       <guid>https://ducdauge.github.io/authors/andr%C3%A9-f.-t.-martins/</guid>
       <description></description>
@@ -24,9 +24,63 @@
     <item>
       <title>Edoardo M. Ponti</title>
       <link>https://ducdauge.github.io/authors/edoardo-m.-ponti/</link>
-      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
       
       <guid>https://ducdauge.github.io/authors/edoardo-m.-ponti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Federico Alvetreti</title>
+      <link>https://ducdauge.github.io/authors/federico-alvetreti/</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/authors/federico-alvetreti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lei Li</title>
+      <link>https://ducdauge.github.io/authors/lei-li/</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/authors/lei-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marcos V. Treviso</title>
+      <link>https://ducdauge.github.io/authors/marcos-v.-treviso/</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/authors/marcos-v.-treviso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nuno M. T. Gonçalves</title>
+      <link>https://ducdauge.github.io/authors/nuno-m.-t.-gon%C3%A7alves/</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/authors/nuno-m.-t.-gon%C3%A7alves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xu Han</title>
+      <link>https://ducdauge.github.io/authors/xu-han/</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/authors/xu-han/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuxiang Huang</title>
+      <link>https://ducdauge.github.io/authors/yuxiang-huang/</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/authors/yuxiang-huang/</guid>
       <description></description>
     </item>
     
@@ -36,24 +90,6 @@
       <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
       
       <guid>https://ducdauge.github.io/authors/hugo-pitorro/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lei Li</title>
-      <link>https://ducdauge.github.io/authors/lei-li/</link>
-      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://ducdauge.github.io/authors/lei-li/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Marcos V. Treviso</title>
-      <link>https://ducdauge.github.io/authors/marcos-v.-treviso/</link>
-      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://ducdauge.github.io/authors/marcos-v.-treviso/</guid>
       <description></description>
     </item>
     

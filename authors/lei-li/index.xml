@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-uk</language>
     <copyright>Edoardo M. Ponti, {year}</copyright>
-    <lastBuildDate>Thu, 16 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://ducdauge.github.io/authors/lei-li/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DashAttention: Differentiable and Adaptive Sparse Hierarchical Attention</title>
+      <link>https://ducdauge.github.io/publication/2026-dashattention/</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducdauge.github.io/publication/2026-dashattention/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>AdaSplash-2: Faster Differentiable Sparse Attention</title>
