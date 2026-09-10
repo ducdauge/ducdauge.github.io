@@ -396,12 +396,12 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ducdauge.github.io/authors/emponti/</guid>
-      <description>&lt;p&gt;From August 2026, I will be an associate professor in Natural Language Processing at the Department of Computing of &lt;a href=&#34;https://www.imperial.ac.uk/computing/&#34;&gt;Imperial College London&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;If you are a prospective PhD student or postdoc please visit the &lt;a href=&#34;faq&#34;&gt;FAQ&lt;/a&gt; page for more information.&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Since August 2026, I have been an associate professor in Natural Language Processing at the Department of Computing of &lt;a href=&#34;https://www.imperial.ac.uk/computing/&#34;&gt;Imperial College London&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;If you are a prospective PhD student or postdoc please see the &lt;a href=&#34;https://ducdauge.github.io/atom/#join&#34;&gt;open positions&lt;/a&gt; on AToM.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;I am currently leading two main projects:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://ducdauge.github.io/atom&#34;&gt;&lt;strong&gt;Adaptive Tokenization and Memory in Foundation Models for Efficient and Long-Horizon AI&lt;/strong&gt;&lt;/a&gt; (AToM ⚛︎) funded by an ERC Starting Grant. This project aims at designing the next generation of foundation model architectures to reduce energy demand and carbon emissions, while enabling permanent memories, inference time hyper-scaling, and long-horizon world modelling.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.teasbench.com/&#34;&gt;&lt;strong&gt;Tracking Evolving AI and Systems&lt;/strong&gt;&lt;/a&gt; (TEAS ☕︎), which aims at benchmarking cost–accuracy–performance trade-offs in existing hardware and devising analytical tools to extrapolate performance to new hardware.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.teasbench.com/&#34;&gt;&lt;strong&gt;Tracking Evolving AI and Systems&lt;/strong&gt;&lt;/a&gt; (TEAS ☕︎), which aims at benchmarking cost–accuracy–performance trade-offs in emerging hardware and software stacks for AI accelerators.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;My research focuses on:&lt;/p&gt;
 </description>
