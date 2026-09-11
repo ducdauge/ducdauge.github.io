@@ -116,11 +116,13 @@
   
     
   
-  <meta property="twitter:card" content="summary_large_image">
+  <meta name="twitter:card" content="summary_large_image">
   
-  <meta property="twitter:site" content="@PontiEdoardo">
-  <meta property="twitter:creator" content="@PontiEdoardo">
+  <meta name="twitter:site" content="@PontiEdoardo">
+  <meta name="twitter:creator" content="@PontiEdoardo">
   
+  <meta name="twitter:title" content="Fast and Expressive Multi-Token Prediction with Probabilistic Circuits | Edoardo M. Ponti">
+  <meta name="twitter:description" content="Multi-token prediction (MTP) is a prominent strategy to significantly speed up generation in large language models (LLMs), including byte-level LLMs, which are tokeniser-free but prohibitively slow. However, existing MTP methods often sacrifice expressiveness by assuming independence between future tokens. In this work, we investigate the trade-off between expressiveness and latency in MTP within the framework of probabilistic circuits (PCs). Our framework, named MTPC, allows one to explore different ways to encode the joint distributions over future tokens by selecting different circuit architectures, generalising classical models such as (hierarchical) mixture models, hidden Markov models and tensor networks. We show the efficacy of MTPC by retrofitting existing byte-level LLMs, such as EvaByte. Our experiments show that, when combined with speculative decoding, MTPC significantly speeds up generation compared to MTP with independence assumptions, while guaranteeing to retain the performance of the original verifier LLM. We also rigorously study the optimal trade-off between expressiveness and latency when exploring the possible parameterisations of MTPC, such as PC architectures and partial layer sharing between the verifier and draft LLMs."><meta name="twitter:image" content="https://ducdauge.github.io/publication/2025-mtpc/featured.png">
   <meta property="og:site_name" content="Edoardo M. Ponti">
   <meta property="og:url" content="https://ducdauge.github.io/publication/2025-mtpc/">
   <meta property="og:title" content="Fast and Expressive Multi-Token Prediction with Probabilistic Circuits | Edoardo M. Ponti">

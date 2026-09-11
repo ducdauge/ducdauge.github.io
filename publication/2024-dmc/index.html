@@ -116,11 +116,13 @@
   
     
   
-  <meta property="twitter:card" content="summary_large_image">
+  <meta name="twitter:card" content="summary_large_image">
   
-  <meta property="twitter:site" content="@PontiEdoardo">
-  <meta property="twitter:creator" content="@PontiEdoardo">
+  <meta name="twitter:site" content="@PontiEdoardo">
+  <meta name="twitter:creator" content="@PontiEdoardo">
   
+  <meta name="twitter:title" content="Dynamic Memory Compression: Retrofitting LLMs for Accelerated Inference | Edoardo M. Ponti">
+  <meta name="twitter:description" content="Transformers have emerged as the backbone of large language models (LLMs). However, generation remains inefficient due to the need to store in memory a cache of key-value representations for past tokens, whose size scales linearly with the input sequence length and batch size. As a solution, we propose Dynamic Memory Compression (DMC), a method for on-line key-value cache compression at inference time. Most importantly, the model learns to apply different compression rates in different heads and layers. We retrofit pre-trained LLMs such as Llama 2 (7B, 13B and 70B) into DMC Transformers, achieving up to ~3.7x throughput increase in auto-regressive inference on a NVIDIA H100 GPU. DMC is applied via continued pre-training on a negligible percentage of the original data without adding any extra parameters. We find that DMC preserves the original downstream performance with up to 4x cache compression, outperforming up-trained grouped-query attention (GQA). GQA and DMC can be even combined to obtain compounded gains. As a result DMC fits longer contexts and larger batches within any given memory budget."><meta name="twitter:image" content="https://ducdauge.github.io/publication/2024-dmc/featured.png">
   <meta property="og:site_name" content="Edoardo M. Ponti">
   <meta property="og:url" content="https://ducdauge.github.io/publication/2024-dmc/">
   <meta property="og:title" content="Dynamic Memory Compression: Retrofitting LLMs for Accelerated Inference | Edoardo M. Ponti">

@@ -116,11 +116,13 @@
   
     
   
-  <meta property="twitter:card" content="summary_large_image">
+  <meta name="twitter:card" content="summary_large_image">
   
-  <meta property="twitter:site" content="@PontiEdoardo">
-  <meta property="twitter:creator" content="@PontiEdoardo">
+  <meta name="twitter:site" content="@PontiEdoardo">
+  <meta name="twitter:creator" content="@PontiEdoardo">
   
+  <meta name="twitter:title" content="The Sparse Frontier: Sparse Attention Trade-offs in Transformer LLMs | Edoardo M. Ponti">
+  <meta name="twitter:description" content="Sparse attention offers a promising strategy to extend long-context capabilities in Transformer LLMs, yet its efficiency-accuracy trade-offs remain unclear due to the lack of comprehensive evaluation. We address this gap with the largest-scale empirical analysis to date of training-free sparse attention, evaluating six methods across multiple model families and sizes, sequences up to 128K tokens, and sparsity levels up to 0.95 (i.e., 1/20 attention budget) on nine diverse tasks. We first organise the rapidly evolving landscape of sparse attention methods into a taxonomy along four design axes. Our analysis then yields actionable insights: 1) sparse attention is effective — larger sparse models outperform smaller dense ones at equivalent cost, improving the Pareto frontier; 2) due to computational constraints, token-to-page importance estimation is unfeasible during prefilling, where the choice of an alternative solution (global-to-token or block-to-block) depends on the task, but is possible during decoding, enabling better generalisation and tolerance to higher sparsity; 3) longer sequences tolerate higher sparsity, suggesting that fixed-budget methods in production are suboptimal. Together, these findings provide practical guidance for deploying sparse attention and methodological recommendations for future evaluations."><meta name="twitter:image" content="https://ducdauge.github.io/publication/2025-sparse-frontier/featured.png">
   <meta property="og:site_name" content="Edoardo M. Ponti">
   <meta property="og:url" content="https://ducdauge.github.io/publication/2025-sparse-frontier/">
   <meta property="og:title" content="The Sparse Frontier: Sparse Attention Trade-offs in Transformer LLMs | Edoardo M. Ponti">

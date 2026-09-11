@@ -116,11 +116,13 @@
   
     
   
-  <meta property="twitter:card" content="summary_large_image">
+  <meta name="twitter:card" content="summary_large_image">
   
-  <meta property="twitter:site" content="@PontiEdoardo">
-  <meta property="twitter:creator" content="@PontiEdoardo">
+  <meta name="twitter:site" content="@PontiEdoardo">
+  <meta name="twitter:creator" content="@PontiEdoardo">
   
+  <meta name="twitter:title" content="Self-Improving World Modelling with Latent Actions | Edoardo M. Ponti">
+  <meta name="twitter:description" content="Internal modelling of the world — predicting transitions between previous states X and next states Y under actions Z — is essential to reasoning and planning for LLMs and VLMs. Learning such models typically requires costly action-labelled trajectories. We propose SWIRL, a self-improvement framework that learns from state-only sequences by treating actions as a latent variable and alternating between Forward World Modelling (FWM) P(Y|X,Z) and an Inverse Dynamics Modelling (IDM) Q(Z|X,Y). SWIRL iterates two phases: (1) Variational Information Maximisation, which updates the FWM to generate next states that maximise conditional mutual information with latent actions given prior states, encouraging identifiable consistency; and (2) ELBO Maximisation, which updates the IDM to explain observed transitions, effectively performing coordinate ascent. Both models are trained with reinforcement learning (specifically, GRPO) with the opposite frozen model&#39;s log-probability as a reward signal. We provide theoretical learnability guarantees for both updates, and evaluate SWIRL on LLMs and VLMs across multiple environments: single-turn and multi-turn open-world visual dynamics and synthetic textual environments for physics, web, and tool calling. SWIRL achieves gains of 16% on AURORABench, 28% on ByteMorph, 16% on WorldPredictionBench, and 14% on StableToolBench."><meta name="twitter:image" content="https://ducdauge.github.io/publication/2026-swirl/featured.gif">
   <meta property="og:site_name" content="Edoardo M. Ponti">
   <meta property="og:url" content="https://ducdauge.github.io/publication/2026-swirl/">
   <meta property="og:title" content="Self-Improving World Modelling with Latent Actions | Edoardo M. Ponti">

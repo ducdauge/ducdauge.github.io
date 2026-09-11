@@ -116,11 +116,13 @@
   
     
   
-  <meta property="twitter:card" content="summary_large_image">
+  <meta name="twitter:card" content="summary_large_image">
   
-  <meta property="twitter:site" content="@PontiEdoardo">
-  <meta property="twitter:creator" content="@PontiEdoardo">
+  <meta name="twitter:site" content="@PontiEdoardo">
+  <meta name="twitter:creator" content="@PontiEdoardo">
   
+  <meta name="twitter:title" content="AdaSplash-2: Faster Differentiable Sparse Attention | Edoardo M. Ponti">
+  <meta name="twitter:description" content="Sparse attention has been proposed as a way to alleviate the quadratic cost of transformers, a central bottleneck in long-context training. A promising line of work is α-entmax attention, a differentiable sparse alternative to softmax that enables input-dependent sparsity yet has lagged behind softmax due to the computational overhead necessary to compute the normalizer τ. In this paper, we introduce AdaSplash-2, which addresses this limitation through a novel histogram-based initialization that reduces the number of iterations needed to compute τ to typically 1–2. The key idea is to compute a coarse histogram of attention scores on the fly and store it in on-chip SRAM, yielding a more accurate initialization that enables fast forward and backward computation. Combined with a sparsity-aware GPU implementation that skips zero blocks with low overhead, AdaSplash-2 matches or improves per-step training time relative to FlashAttention-2 when block sparsity is moderate-to-high (e.g., &gt;60%), which often occurs at long-context lengths. On downstream tasks, models trained with our efficient α-entmax attention match softmax baselines at short-context lengths and achieve substantial gains in long-context settings."><meta name="twitter:image" content="https://ducdauge.github.io/publication/2026-adasplash-2/featured.png">
   <meta property="og:site_name" content="Edoardo M. Ponti">
   <meta property="og:url" content="https://ducdauge.github.io/publication/2026-adasplash-2/">
   <meta property="og:title" content="AdaSplash-2: Faster Differentiable Sparse Attention | Edoardo M. Ponti">
