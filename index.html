@@ -659,6 +659,131 @@
   
   
 
+  <section id="news" class="home-section wg-news   "  >
+    <div class="container">
+      
+
+
+
+<style>
+.news-list { list-style: none; padding: 0; margin: 0; }
+.news-item { display: flex; gap: 1.25rem; line-height: 1.45; padding: 0.35rem 0; }
+.news-item .news-date { flex: 0 0 5.5rem; color: #78766f; font-size: 0.9em; padding-top: 0.1em; white-space: nowrap; }
+.news-item .news-text { flex: 1; }
+.news-item .news-text p { margin: 0; }
+.news-list .news-older { display: none; }
+.news-list.expanded .news-older { display: flex; }
+.news-toggle { margin-top: 0.6rem; padding: 0.3rem 0.85rem; border-radius: 999px; border: 1px solid rgba(127,127,127,0.35); background: transparent; color: inherit; font-size: 0.85rem; cursor: pointer; transition: border-color 0.15s ease; }
+.news-toggle:hover { border-color: rgba(127,127,127,0.7); }
+@media (max-width: 576px) {
+  .news-item { flex-direction: column; gap: 0.1rem; }
+  .news-item .news-date { flex-basis: auto; }
+}
+</style>
+
+<div class="row justify-content-center">
+  <div class="col-12">
+  
+  <div class="section-heading"><h1>News</h1>
+    
+  </div>
+  
+
+  
+  
+  <ul class="news-list" id="news-list">
+    
+    <li class="news-item">
+      <span class="news-date">Sep 2026</span>
+      <span class="news-text">2 papers accepted at NeurIPS 2026 on <a href="https://arxiv.org/abs/2602.06130">self-improving world models with latent actions</a> and <a href="https://arxiv.org/abs/2605.18753">adaptive-size hierarchical sparse attention</a>.</span>
+    </li>
+    
+    <li class="news-item">
+      <span class="news-date">Aug 2026</span>
+      <span class="news-text">Started new role as associate professor in computing at <a href="https://www.imperial.ac.uk/computing/">Imperial College London</a>.</span>
+    </li>
+    
+    <li class="news-item">
+      <span class="news-date">Jul 2026</span>
+      <span class="news-text">3 papers accepted at ICML 2026 on <a href="https://openreview.net/forum?id=6kCEyw9god">multi-byte prediction via probabilistic circuits</a>, <a href="https://openreview.net/forum?id=MgtyPYrC4h">blending reinforcement and supervised post-training</a>, and <a href="https://openreview.net/forum?id=7qpvff2gWI">faster adaptive-size sparse attention</a>.</span>
+    </li>
+    
+    <li class="news-item">
+      <span class="news-date">Jul 2026</span>
+      <span class="news-text">2 papers accepted at ACL 2026 Findings on the <a href="https://aclanthology.org/2026.findings-acl.1926/">scaling laws for training-free sparse attention</a> and <a href="https://aclanthology.org/2026.findings-acl.1772/">bootstrapping world models from inverse dynamics</a>.</span>
+    </li>
+    
+    <li class="news-item">
+      <span class="news-date">Feb 2026</span>
+      <span class="news-text">Released <a href="https://huggingface.co/nvidia/Qwen3-8B-DMS-8x">Qwen3 with Dynamic Memory Sparsification</a> in collaboration with NVIDIA.</span>
+    </li>
+    
+    <li class="news-item news-older">
+      <span class="news-date">Jan 2026</span>
+      <span class="news-text">Awarded an NVIDIA Academic Grant on permanent model memories with logarithmic growth.</span>
+    </li>
+    
+    <li class="news-item news-older">
+      <span class="news-date">Dec 2025</span>
+      <span class="news-text">Released <a href="https://allenai.org/blog/bolmo">Bolmo</a> in collaboration with AI2, an <a href="https://arxiv.org/abs/2512.15586">efficient byte-level language model with latent tokenization</a>.</span>
+    </li>
+    
+    <li class="news-item news-older">
+      <span class="news-date">Dec 2025</span>
+      <span class="news-text">4 papers accepted at NeurIPS 2025 on <a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/720f9f5dc751eb56952ae4fee2398f73-Abstract-Conference.html">universal cross-tokenizer distillation</a>, <a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/0d781fa5f639bf2caf728a68e9678362-Abstract-Conference.html">inference-time hyper-scaling via memory compression</a>, <a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/c60bd92a01804b7df0540ed7ca2f7c05-Abstract-Conference.html">neurosymbolic diffusion models</a>, and <a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/74bd547997917a20331d6df5e6049d6a-Abstract-Datasets_and_Benchmarks_Track.html">cost–accuracy–performance trade-offs in sparse mixture-of-experts systems</a>.</span>
+    </li>
+    
+    <li class="news-item news-older">
+      <span class="news-date">Nov 2025</span>
+      <span class="news-text">Awarded Google DeepMind funding for a multilingual and multicultural world modelling benchmark.</span>
+    </li>
+    
+    <li class="news-item news-older">
+      <span class="news-date">Nov 2025</span>
+      <span class="news-text"><a href="/atom/">AToM</a> (Adaptive Tokenization and Memory in Foundation Models), a €1.5M <a href="https://informatics.ed.ac.uk/news/latest-news/dr-edoardo-ponti-wins-eu15-million-erc-starting-grant-to-pioneer-adaptive">ERC Starting Grant</a> project, is officially launched!</span>
+    </li>
+    
+  </ul>
+  
+  <button type="button" class="news-toggle" aria-controls="news-list" aria-expanded="false"
+    onclick="var l=document.getElementById('news-list'),o=l.classList.toggle('expanded');this.setAttribute('aria-expanded',o);this.textContent=o?'Hide previous news':'Show previous news';">Show previous news</button>
+  
+  </div>
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
   <section id="students" class="home-section wg-lab   "  >
     <div class="container">
       

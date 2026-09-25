@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ducdauge.github.io/publication_types/2/</loc>
+    <loc>https://ducdauge.github.io/publication_types/1/</loc>
     <lastmod>2026-05-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ducdauge.github.io/authors/andr%C3%A9-f.-t.-martins/</loc>
@@ -98,6 +98,9 @@
     <loc>https://ducdauge.github.io/project/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://ducdauge.github.io/publication_types/2/</loc>
+    <lastmod>2025-12-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ducdauge.github.io/authors/benjamin-minixhofer/</loc>
     <lastmod>2025-12-19T00:00:00+00:00</lastmod>
   </url><url>
@@ -148,9 +151,6 @@
   </url><url>
     <loc>https://ducdauge.github.io/authors/yu-zhao/</loc>
     <lastmod>2025-11-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ducdauge.github.io/publication_types/1/</loc>
-    <lastmod>2025-11-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ducdauge.github.io/authors/adrian-%C5%82a%C5%84cucki/</loc>
     <lastmod>2025-11-07T00:00:00+00:00</lastmod>
